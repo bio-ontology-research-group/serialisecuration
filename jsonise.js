@@ -5,7 +5,7 @@ var fs = require('fs'),
     async = require('async');
 
 var lines = fs.readFileSync('sheet.tsv').toString().split('\n'),
-    structure = [];
+    structure = {};
 
 async.each(lines, function(line, done) {
   var fields = line.split('\t'),
@@ -28,7 +28,7 @@ async.each(lines, function(line, done) {
         body = body[_.keys(body)[0]]; // disgusting
         topicClasses.push(body[0].iri);
       } else {
-        console.log('Did not find ' + topic);
+        console.log('Did not find topic "' + topic + '" for ' + ontology);
       }
       done();
     });
