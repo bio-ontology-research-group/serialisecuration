@@ -1,532 +1,532 @@
-topic	NCBI_Taxon_ID	species	ontology
-anatomy; eukaryotes	8292	amphibians	http://aber-owl.net/ontology/AAO
-anatomy; neurobiology; neurology; laboratory animal science; mouse clinic	10090	mouse	http://aber-owl.net/ontology/ABA-AMB
-preclinical and clinical studies; oncology; pathology	9606	human	http://aber-owl.net/ontology/ACGT-MO
-neurobiology; neurology; psychiatry; paediatrics	9606	human	http://aber-owl.net/ontology/ADAR
-laboratory information management; data search, query and retrieval; data acquisition and deposition; medicine	9606	human	http://aber-owl.net/ontology/ADMIN
-neurobiology; neurology; pathology; psychiatry; geriatric medicine	9606	human	http://aber-owl.net/ontology/ADO
-ecology; developmental biology; evolutionary biology; taxonomy; invertebrates; vertebrates	33208	animalia	http://aber-owl.net/ontology/ADW
-anatomy; cell biology; structural biology	1	all life	http://aber-owl.net/ontology/AEO
-pathology; preclinical and clinical studies; pharmacology; pharmacovigilence	9606	human	http://aber-owl.net/ontology/AERO
-musculoskeletal medicine; medicines research and development; preclinical and clinical studies; medical imaging	9606	human	http://aber-owl.net/ontology/AI-RHEUM
-allergy, clinical immunology and immunotherapeutics	9606	human	http://aber-owl.net/ontology/ALLERGYDETECTOR
-biology; peptides and amino acids; proteins; molecular biology; proteomics;	9606	human	http://aber-owl.net/ontology/AMINO-ACID
-genomics; population genetics; data curation and annotation; evolutionary biology	9606	human	http://aber-owl.net/ontology/ANCESTRO
-computer programming; data management 	1	all life	http://aber-owl.net/ontology/APACOMPUTER
-psychiatry; neurology	9606	human	http://aber-owl.net/ontology/APADISORDERS
-data management 	9606	human	http://aber-owl.net/ontology/APAEDUCLUSTER
-neurobiology; neurology; anatomy; physiology; psychiatry	9606	human	http://aber-owl.net/ontology/APANEUROCLUSTER
-data management 	9606	human	http://aber-owl.net/ontology/APAOCUEMPLOY
-psychiatry; neurobiology; neurology; physiology	9606	human	http://aber-owl.net/ontology/APAONTO
-statistics; data management	1	all life	http://aber-owl.net/ontology/APASTATISTICAL
-developmental biology; neurology; neurobiology; statistics	9606	human	http://aber-owl.net/ontology/APATANDT
-complementary medicine; psychiatry; pathology	9606	human	http://aber-owl.net/ontology/APATREATMENT
- fungi; phenomics; laboratory animal science	4890	ascomycetes	http://aber-owl.net/ontology/APO
-neurobiology; neurology; psychiatry; phenomics; pathology; paediatrics	9606	human	http://aber-owl.net/ontology/ASDPTO
-anatomy; medicinal chemistry; pharmacology; pharmacokinetics and pharmacodynamics	9606	human	http://aber-owl.net/ontology/ATC
-phylogenomics; laboratory animal science	8292	amphibians	http://aber-owl.net/ontology/ATO
- phenomics; vertebrates; developmental biology; physiology; nutritional science; reproductive health	33208	animalia	http://aber-owl.net/ontology/ATOL
-data management	1	all life	http://aber-owl.net/ontology/AURA
-compound libraries and screening; computational chemistry; cell biology; phenomics; molecular biology; biochemistry	1	all life	http://aber-owl.net/ontology/BAO
-biochemistry; physiology; pharmacology; proteins; drug discovery; small molecules; lipids; proteomics	1	all life	http://aber-owl.net/ontology/BAO-GPCR
-oncology; anatomy	9606	human	http://aber-owl.net/ontology/BCGO
-ecology; data acquisition and deposition	1	all life	http://aber-owl.net/ontology/BCO
-bioengineering; medicine; musculoskeletal medicine; physiology; developmental biology; mass spectrometry; cell biology; biomaterial	9606	human	http://aber-owl.net/ontology/BCTEO
-psychiatry; neurobiology; neurology	9606	human	http://aber-owl.net/ontology/BCTTV1
-developmental biology; cell biology; musculoskeletal medicine; phenomics; oncology; quantitative genetics; anatomy	9606	human	http://aber-owl.net/ontology/BDO
-data management	1	all life	http://aber-owl.net/ontology/BFO
-anatomy; pathology; population genetics; enzymes; immunology; microbiology; haematology; protein; proteomics; viruses; biomedical science; microbial collection	9606	human	http://aber-owl.net/ontology/BHN
-haematology; phenomics; pathology	9606	human	http://aber-owl.net/ontology/BHO
+topic	NCBI_Taxon_ID	Species	ontology
+anatomy; eukaryotes	8292	Amphibians	http://aber-owl.net/ontology/AAO
+anatomy; neurobiology; neurology; laboratory animal science; mouse clinic	10090	Mouse	http://aber-owl.net/ontology/ABA-AMB
+preclinical and clinical studies; oncology; pathology	9606	Human	http://aber-owl.net/ontology/ACGT-MO
+neurobiology; neurology; psychiatry; paediatrics	9606	Human	http://aber-owl.net/ontology/ADAR
+laboratory information management; data search, query and retrieval; data acquisition and deposition; medicine	9606	Human	http://aber-owl.net/ontology/ADMIN
+neurobiology; neurology; pathology; psychiatry; geriatric medicine	9606	Human	http://aber-owl.net/ontology/ADO
+ecology; developmental biology; evolutionary biology; taxonomy; invertebrates; vertebrates	33208	Animalia	http://aber-owl.net/ontology/ADW
+anatomy; cell biology; structural biology	1	All life	http://aber-owl.net/ontology/AEO
+pathology; preclinical and clinical studies; pharmacology; pharmacovigilence	9606	Human	http://aber-owl.net/ontology/AERO
+musculoskeletal medicine; medicines research and development; preclinical and clinical studies; medical imaging	9606	Human	http://aber-owl.net/ontology/AI-RHEUM
+allergy, clinical immunology and immunotherapeutics	9606	Human	http://aber-owl.net/ontology/ALLERGYDETECTOR
+biology; peptides and amino acids; proteins; molecular biology; proteomics;	9606	Human	http://aber-owl.net/ontology/AMINO-ACID
+genomics; population genetics; data curation and annotation; evolutionary biology	9606	Human	http://aber-owl.net/ontology/ANCESTRO
+computer programming; data management 	1	All life	http://aber-owl.net/ontology/APACOMPUTER
+psychiatry; neurology	9606	Human	http://aber-owl.net/ontology/APADISORDERS
+data management 	9606	Human	http://aber-owl.net/ontology/APAEDUCLUSTER
+neurobiology; neurology; anatomy; physiology; psychiatry	9606	Human	http://aber-owl.net/ontology/APANEUROCLUSTER
+data management 	9606	Human	http://aber-owl.net/ontology/APAOCUEMPLOY
+psychiatry; neurobiology; neurology; physiology	9606	Human	http://aber-owl.net/ontology/APAONTO
+statistics; data management	1	All life	http://aber-owl.net/ontology/APASTATISTICAL
+developmental biology; neurology; neurobiology; statistics	9606	Human	http://aber-owl.net/ontology/APATANDT
+complementary medicine; psychiatry; pathology	9606	Human	http://aber-owl.net/ontology/APATREATMENT
+ fungi; phenomics; laboratory animal science	4890	Ascomycetes	http://aber-owl.net/ontology/APO
+neurobiology; neurology; psychiatry; phenomics; pathology; paediatrics	9606	Human	http://aber-owl.net/ontology/ASDPTO
+anatomy; medicinal chemistry; pharmacology; pharmacokinetics and pharmacodynamics	9606	Human	http://aber-owl.net/ontology/ATC
+phylogenomics; laboratory animal science	8292	Amphibians	http://aber-owl.net/ontology/ATO
+ phenomics; vertebrates; developmental biology; physiology; nutritional science; reproductive health	33208	Animalia	http://aber-owl.net/ontology/ATOL
+data management	1	All life	http://aber-owl.net/ontology/AURA
+compound libraries and screening; computational chemistry; cell biology; phenomics; molecular biology; biochemistry	1	All life	http://aber-owl.net/ontology/BAO
+biochemistry; physiology; pharmacology; proteins; drug discovery; small molecules; lipids; proteomics	1	All life	http://aber-owl.net/ontology/BAO-GPCR
+oncology; anatomy	9606	Human	http://aber-owl.net/ontology/BCGO
+ecology; data acquisition and deposition	1	All life	http://aber-owl.net/ontology/BCO
+bioengineering; medicine; musculoskeletal medicine; physiology; developmental biology; mass spectrometry; cell biology; biomaterials	9606	Human	http://aber-owl.net/ontology/BCTEO
+psychiatry; neurobiology; neurology	9606	Human	http://aber-owl.net/ontology/BCTTV1
+developmental biology; cell biology; musculoskeletal medicine; phenomics; oncology; quantitative genetics; anatomy	9606	Human	http://aber-owl.net/ontology/BDO
+data management	1	All life	http://aber-owl.net/ontology/BFO
+anatomy; pathology; population genetics; enzymes; immunology; microbiology; haematology; protein; proteomics; viruses; biomedical science; microbial collection	9606	Human	http://aber-owl.net/ontology/BHN
+haematology; phenomics; pathology	9606	Human	http://aber-owl.net/ontology/BHO
 anatomy; physiology; laboratory animal science	33213	Bilateria 	http://aber-owl.net/ontology/BILA
-medical imaging; biological imaging	9606	human	http://aber-owl.net/ontology/BIM
-sample collections; metabolic pathways; genetics; functional genomics; function analysis	9606	human	http://aber-owl.net/ontology/BIOMO
-molecular modelling; computational biology; computational chemistry; biochemistry	1	all life	http://aber-owl.net/ontology/BIOMODELS
-anatomy; data acquisition and deposition; pathology; phenomics; cell biology; neurobiology; neurology; physiology; phylogenetics; medical informatics	9606	human	http://aber-owl.net/ontology/BIRNLEX
-biomarkers; pharmacology; pathology; drug discovery; pharmacokinetics and pharmacodynamics; translational medicine	1	all life	http://aber-owl.net/ontology/BMO
-biomedical science; biology	9606	human	http://aber-owl.net/ontology/BMT
-nutritional science; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/BNO
-biodiversity	1	all life	http://aber-owl.net/ontology/BOF
-gene regulation	1	all life	http://aber-owl.net/ontology/BOOTSTREP
-protein interactions; molecular interactions, pathways and networks; genetics; small molecules	1	all life	http://aber-owl.net/ontology/BP
-ontology and terminology; data identity and mapping; data integration; data search, query and retrieval	1	all life	http://aber-owl.net/ontology/BP-METADATA
-cell biology; anatomy; neurobiology; neurology	9606	human	http://aber-owl.net/ontology/BRCT
-data management; pharmacology; physiology; psychiatry; preclinical and clinical studies; pharmacovigilence	1	all life	http://aber-owl.net/ontology/BRIDG
-bionformatics; statistics; preclinical and clinical studies; computational biology; public health and epidemiology; pathology; pediatrics; pharmacokinetics and pharmacodynamics; physiology; toxiology	9606	human	http://aber-owl.net/ontology/BRO
+medical imaging; biological imaging	9606	Human	http://aber-owl.net/ontology/BIM
+sample collections; metabolic pathways; genetics; functional genomics; function analysis	9606	Human	http://aber-owl.net/ontology/BIOMO
+molecular modelling; computational biology; computational chemistry; biochemistry	1	All life	http://aber-owl.net/ontology/BIOMODELS
+anatomy; data acquisition and deposition; pathology; phenomics; cell biology; neurobiology; neurology; physiology; phylogenetics; medical informatics	9606	Human	http://aber-owl.net/ontology/BIRNLEX
+biomarkers; pharmacology; pathology; drug discovery; pharmacokinetics and pharmacodynamics; translational medicine	1	All life	http://aber-owl.net/ontology/BMO
+biomedical science; biology; ontology and terminology	9606	Human	http://aber-owl.net/ontology/BMT
+nutritional science; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/BNO
+biodiversity	1	All life	http://aber-owl.net/ontology/BOF
+gene regulation	1	All life	http://aber-owl.net/ontology/BOOTSTREP
+protein interactions; molecular interactions, pathways and networks; genetics; small molecules	1	All life	http://aber-owl.net/ontology/BP
+ontology and terminology; data identity and mapping; data integration; data search, query and retrieval	1	All life	http://aber-owl.net/ontology/BP-METADATA
+cell biology; anatomy; neurobiology; neurology	9606	Human	http://aber-owl.net/ontology/BRCT
+data management; pharmacology; physiology; psychiatry; preclinical and clinical studies; pharmacovigilence	1	All life	http://aber-owl.net/ontology/BRIDG
+bioinformatics; statistics; preclinical and clinical studies; computational biology; public health and epidemiology; pathology; paediatrics; pharmacokinetics and pharmacodynamics; physiology; toxicology; ontology and terminology	9606	Human	http://aber-owl.net/ontology/BRO
 marine biology; anatomy; developmental biology; physiology; eukaryotes	30301	Botryllus schlosseri	http://aber-owl.net/ontology/BSAO
-anatomy; biophysics; structural biology	1	all life	http://aber-owl.net/ontology/BSPO
-population genetics; eukaryotes; viruses; prokaryotes and archae	9606	human	http://aber-owl.net/ontology/BT
-enzymes; cell biology; physiology	1	all life	http://aber-owl.net/ontology/BTO
-trauma medicine; neurology; neurobiology; computer programming; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/CABRO
-oncology; medicinal chemistry	9606	human	http://aber-owl.net/ontology/CANCO
-oncology	9606	human	http://aber-owl.net/ontology/CANONT
-genetics; functional genomics; evolutionary biology; statistics; proteins; eukaryotes; prokaryotes and archae	1	all life	http://aber-owl.net/ontology/CAO
- oncology; preclinical and clinical studies; medical informatics; data management; medical imaging; statistics	9606	human	http://aber-owl.net/ontology/CARELEX
-anatomy; structural biology	1	all life	http://aber-owl.net/ontology/CARO
-preclinical and clinical studies; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/CARRE
-molecular modelling; cell biology; molecular biology	1	all life	http://aber-owl.net/ontology/CBO
-cell biology; eukaryotes; data integration; proteins; genetics; molecular interactions, pathways and networks	2759	eukaryota	http://aber-owl.net/ontology/CCO
-plants; ecology; molecular dynamics	3193	plants	http://aber-owl.net/ontology/CCON
-cell culture collection; cell biology	1	all life	http://aber-owl.net/ontology/CCONT
-evolutionary biology; data analysis; comparative genomics; phylogenetics; sequence comparison; genetics	1	all life	http://aber-owl.net/ontology/CDAO
-anatomy; developmental biology; cell biology; membrane and lipoproteins; eukaryotes; metabolic pathways; metabolomics; marine biology	6605	cephalopods	http://aber-owl.net/ontology/CEPH
-cardiology; genetics	9606	human	http://aber-owl.net/ontology/CHD
-compound libraries and screening; molecular biology; biochemistry ;biophysics; structural biology	1	all life	http://aber-owl.net/ontology/CHEBI
-genomics; molecular interactions, pathways and networks; synthetics chemistry; chemical biology; structural biology; pathology; genetics; pharmacovigilence	1	all life	http://aber-owl.net/ontology/CHEMBIO
-cheminformatics; computer programming	1	all life	http://aber-owl.net/ontology/CHEMINF
-synthetic chemistry; mass spectrometry; data acquisition and deposition; electron microscopy	1	all life	http://aber-owl.net/ontology/CHMO
+anatomy; biophysics; structural biology	1	All life	http://aber-owl.net/ontology/BSPO
+population genetics; eukaryotes; viruses; prokaryotes and archae	9606	Human	http://aber-owl.net/ontology/BT
+enzymes; cell biology; physiology	1	All life	http://aber-owl.net/ontology/BTO
+trauma medicine; neurology; neurobiology; computer programming; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/CABRO
+oncology; medicinal chemistry	9606	Human	http://aber-owl.net/ontology/CANCO
+oncology	9606	Human	http://aber-owl.net/ontology/CANONT
+genetics; functional genomics; evolutionary biology; statistics; proteins; eukaryotes; prokaryotes and archae	1	All life	http://aber-owl.net/ontology/CAO
+ oncology; preclinical and clinical studies; medical informatics; data management; medical imaging; statistics	9606	Human	http://aber-owl.net/ontology/CARELEX
+anatomy; structural biology	1	All life	http://aber-owl.net/ontology/CARO
+preclinical and clinical studies; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/CARRE
+molecular modelling; cell biology; molecular biology	1	All life	http://aber-owl.net/ontology/CBO
+cell biology; eukaryotes; data integration; proteins; genetics; molecular interactions, pathways and networks	2759	Eukaryota	http://aber-owl.net/ontology/CCO
+plants; ecology; molecular dynamics	3193	Plants	http://aber-owl.net/ontology/CCON
+cell culture collection; cell biology	1	All life	http://aber-owl.net/ontology/CCONT
+evolutionary biology; data analysis; comparative genomics; phylogenetics; sequence comparison; genetics	1	All life	http://aber-owl.net/ontology/CDAO
+anatomy; developmental biology; cell biology; membrane and lipoproteins; eukaryotes; metabolic pathways; metabolomics; marine biology	6605	Cephalopods	http://aber-owl.net/ontology/CEPH
+cardiology; genetics	9606	Human	http://aber-owl.net/ontology/CHD
+compound libraries and screening; molecular biology; biochemistry ;biophysics; structural biology	1	All life	http://aber-owl.net/ontology/CHEBI
+genomics; molecular interactions, pathways and networks; synthetic chemistry; chemical biology; structural biology; pathology; genetics; pharmacovigilence	1	All life	http://aber-owl.net/ontology/CHEMBIO
+cheminformatics; computer programming	1	All life	http://aber-owl.net/ontology/CHEMINF
+synthetic chemistry; mass spectrometry; data acquisition and deposition; electron microscopy	1	All life	http://aber-owl.net/ontology/CHMO
 marine biology; anatomy; developmental biology; eukaryotes	7719	Ciona intestinalis	http://aber-owl.net/ontology/CIINTEADO
 marine biology; anatomy; developmental biology; eukaryotes	51511	Ciona savignyi	http://aber-owl.net/ontology/CISAVIADO
-eukaryotes; cell biology; anatomy; molecular biology; chemical biology; proteins; molecular interactions, pathways and networks	33208	animalia	http://aber-owl.net/ontology/CL
-cell culture collection; cell biology; data integration	1	all life	http://aber-owl.net/ontology/CLO
-surgery; dentistry	9606	human	http://aber-owl.net/ontology/CMF
-physiology; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/CMO
-cell biology; phenomics; molecular interactions, pathways and networks; molecular biology	1	all life	http://aber-owl.net/ontology/CMPO
-computer science	1	all life	http://aber-owl.net/ontology/CN
-neurology; neurobiology; computational biology	9606	human	http://aber-owl.net/ontology/CNO
-ecology; data identity and mapping; eukaryotes	3193	plants	http://aber-owl.net/ontology/CO
-plants; physiology	4565	wheat	http://aber-owl.net/ontology/CO-WHEAT
-psychiatry; neurology; neurobiology	9606	human	http://aber-owl.net/ontology/COGAT
-psychiatry; neurology; neurobiology; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/COGPO
-pharmacovigilence; pharmacology; pharmacokinetics and pharmacodynamics; pathology; physiology; anatomy	1	all life	http://aber-owl.net/ontology/COSTART
-medicine; computer science; physiology; pathology; data management; systems biology	9606	human	http://aber-owl.net/ontology/CPRO
-surgery; anaesthesiology. pathology; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/CPT
-proteomics; preclinical and clinical studies; oncology; laboratory techniques; biomarkers; mass spectrometry; laboratory information management	9606	human	http://aber-owl.net/ontology/CPTAC
-computer science; anatomy; biology; chemistry; physics; pathology; medicine; mathematics; data management	1	all life	http://aber-owl.net/ontology/CRISP
-medical toxicology; toxicology; respiratory medicine	9606	human	http://aber-owl.net/ontology/CSEO
-preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/CSO
-preclinical and clinical studies; neurology; neurobiology; immunology; musculoskeletal medicine; reproductive health; respiratory medicine; dermatology; urology and nephrology	9606	human	http://aber-owl.net/ontology/CSSO
-oncology; pharmacology; pharmacovigilence; toxicology; medical toxicology; pharmacokinetics and pharmacodynamics	1	all life	http://aber-owl.net/ontology/CTCAE
-anatomy; developmental biology; marine biology; cell biology; eukaryotes; molecular interactions, pathways and networks	10197	ctenophores	http://aber-owl.net/ontology/CTENO
-preclinical and clinical studies; neurology; neurobiology; pathology; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/CTO
-preclinical and clinical studies; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/CTONT
-genotype and phenotype; preclinical and clinical studies; neurology; neurobiology	9606	human	http://aber-owl.net/ontology/CTX
-toxicology; medical toxicology; biochemistry; pharmacology	1	all life	http://aber-owl.net/ontology/CU-VO
-cardiology; pathology; haematology;	9606	human	http://aber-owl.net/ontology/CVDO
- proteins; small molecules; proteomics; data integration	1	all life	http://aber-owl.net/ontology/CYTO
-biological imaging; medical imaging; data acquisition and deposition	9606	human	http://aber-owl.net/ontology/DCM
-rare diseases; data management; molecular interactions, pathways and networks; pharmacokinetics and pharmacodynamics	9606	human	http://aber-owl.net/ontology/DCO
-infectious diseases; preclinical and clinical studies;	9606	human	http://aber-owl.net/ontology/DCO-DEBUGIT
-cell biology; immunoproteins, genes and antigens; immunology; laboratory animal science	40674	mammalia	http://aber-owl.net/ontology/DC_CL
+eukaryotes; cell biology; anatomy; molecular biology; chemical biology; proteins; molecular interactions, pathways and networks	33208	Animalia	http://aber-owl.net/ontology/CL
+cell culture collection; cell biology; data integration	1	All life	http://aber-owl.net/ontology/CLO
+surgery; dentistry	9606	Human	http://aber-owl.net/ontology/CMF
+physiology; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/CMO
+cell biology; phenomics; molecular interactions, pathways and networks; molecular biology	1	All life	http://aber-owl.net/ontology/CMPO
+computer science	1	All life	http://aber-owl.net/ontology/CN
+neurology; neurobiology; computational biology	9606	Human	http://aber-owl.net/ontology/CNO
+ecology; data identity and mapping; eukaryotes	3193	Plants	http://aber-owl.net/ontology/CO
+plants; physiology	4565	Wheat	http://aber-owl.net/ontology/CO-WHEAT
+psychiatry; neurology; neurobiology	9606	Human	http://aber-owl.net/ontology/COGAT
+psychiatry; neurology; neurobiology; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/COGPO
+pharmacovigilence; pharmacology; pharmacokinetics and pharmacodynamics; pathology; physiology; anatomy	1	All life	http://aber-owl.net/ontology/COSTART
+medicine; computer science; physiology; pathology; data management; systems biology	9606	Human	http://aber-owl.net/ontology/CPRO
+surgery; anaesthesiology; pathology; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/CPT
+proteomics; preclinical and clinical studies; oncology; laboratory techniques; biomarkers; mass spectrometry; laboratory information management	9606	Human	http://aber-owl.net/ontology/CPTAC
+computer science; anatomy; biology; chemistry; physics; pathology; medicine; mathematics; data management	1	All life	http://aber-owl.net/ontology/CRISP
+medical toxicology; toxicology; respiratory medicine	9606	Human	http://aber-owl.net/ontology/CSEO
+preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/CSO
+preclinical and clinical studies; neurology; neurobiology; immunology; musculoskeletal medicine; reproductive health; respiratory medicine; dermatology; urology and nephrology	9606	Human	http://aber-owl.net/ontology/CSSO
+oncology; pharmacology; pharmacovigilence; toxicology; medical toxicology; pharmacokinetics and pharmacodynamics	1	All life	http://aber-owl.net/ontology/CTCAE
+anatomy; developmental biology; marine biology; cell biology; eukaryotes; molecular interactions, pathways and networks	10197	Ctenophores	http://aber-owl.net/ontology/CTENO
+preclinical and clinical studies; neurology; neurobiology; pathology; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/CTO
+preclinical and clinical studies; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/CTONT
+genotype and phenotype; preclinical and clinical studies; neurology; neurobiology	9606	Human	http://aber-owl.net/ontology/CTX
+toxicology; medical toxicology; biochemistry; pharmacology	1	All life	http://aber-owl.net/ontology/CU-VO
+cardiology; pathology; haematology;	9606	Human	http://aber-owl.net/ontology/CVDO
+ proteins; small molecules; proteomics; data integration	1	All life	http://aber-owl.net/ontology/CYTO
+biological imaging; medical imaging; data acquisition and deposition; ontology and terminology	9606	Human	http://aber-owl.net/ontology/DCM
+rare diseases; data management; molecular interactions, pathways and networks; pharmacokinetics and pharmacodynamics	9606	Human	http://aber-owl.net/ontology/DCO
+infectious diseases; preclinical and clinical studies;	9606	Human	http://aber-owl.net/ontology/DCO-DEBUGIT
+cell biology; immunoproteins, genes and antigens; immunology; laboratory animal science	40674	Mammalia	http://aber-owl.net/ontology/DC_CL
 anatomy; cell biology; eukaryotes; laboratory animal science	44689	Dictyostelium discoideum 	http://aber-owl.net/ontology/DDANAT
-drug discovery	1	all life	http://aber-owl.net/ontology/DDI
+drug discovery	1	All life	http://aber-owl.net/ontology/DDI
 phenomics; cell biology; laboratory animal science	44689	Dictyostelium discoideum 	http://aber-owl.net/ontology/DDPHENO
-laboratory techniques; dermatology; laboratory information management	9606	human	http://aber-owl.net/ontology/DERMLEX
-dermatology; pathology	9606	human	http://aber-owl.net/ontology/DERMO
-pathology; urology and nephrology; endocrinology and metabolism; public health and epidemiology	9606	human	http://aber-owl.net/ontology/DIAB
-surgery; neurology; data analysis; public health and epidemiology	9606	human	http://aber-owl.net/ontology/DIAGONT
-pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	all life	http://aber-owl.net/ontology/DIDEO
-pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions; enzymes; metabolomics; pathways and networks; drug development; drug formulation and delivery; preclinical and clinical studies; drug discovery	1	all life	http://aber-owl.net/ontology/DIKB
-pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	all life	http://aber-owl.net/ontology/DINTO
-preclinical and clinical studies; physiology; psychiatry	9606	human	http://aber-owl.net/ontology/DOCCC
-pathology; anatomy; cell biology; genetics; psychiatry; endocrinology and metabolism	9606	human	http://aber-owl.net/ontology/DOID
+laboratory techniques; dermatology; laboratory information management	9606	Human	http://aber-owl.net/ontology/DERMLEX
+dermatology; pathology	9606	Human	http://aber-owl.net/ontology/DERMO
+pathology; urology and nephrology; endocrinology and metabolism; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/DIAB
+surgery; neurology; data analysis; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/DIAGONT
+pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	All life	http://aber-owl.net/ontology/DIDEO
+pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions; enzymes; metabolomics; pathways and networks; drug development; drug formulation and delivery; preclinical and clinical studies; drug discovery	1	All life	http://aber-owl.net/ontology/DIKB
+pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	All life	http://aber-owl.net/ontology/DINTO
+preclinical and clinical studies; physiology; psychiatry	9606	Human	http://aber-owl.net/ontology/DOCCC
+pathology; anatomy; cell biology; genetics; psychiatry; endocrinology and metabolism	9606	Human	http://aber-owl.net/ontology/DOID
 phenomics; invertebrates; laboratory animal science	7215	Drosophila	http://aber-owl.net/ontology/DPO
-pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	all life	http://aber-owl.net/ontology/DRON
-laboratory techniques; cardiology; laboratory information management	1	all life	http://aber-owl.net/ontology/ECG
-laboratory techniques; genomics; literature and reference; data curation and annotation 	1	all life	http://aber-owl.net/ontology/ECO
-laboratory techniques; information management; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/ECP
-ecology; chemistry	1	all life	http://aber-owl.net/ontology/ECSO
-ontology and terminology	1	all life	http://aber-owl.net/ontology/EDAM
-ontology and terminology	1	all life	http://aber-owl.net/ontology/EDAMTO
-literature and reference	1	all life	http://aber-owl.net/ontology/EDDA
-drugs and target structures; pathology; anatomy; laboratory techniques; phenomics; cell biology; laboratory information management	1	all life	http://aber-owl.net/ontology/EFO
-anatomy; developmental biology	9606	human	http://aber-owl.net/ontology/EHDA
-anatomy; developmental biology	9606	human	http://aber-owl.net/ontology/EHDAA
-anatomy; developmental biology	9606	human	http://aber-owl.net/ontology/EHDAA2
-oncology; preclinical and clinical studies; pathology	9606	human	http://aber-owl.net/ontology/ELIG
-anatomy; developmental biology; mouse clinic; laboratory animal science	10090	mouse	http://aber-owl.net/ontology/EMAP
-anatomy; developmental biology; mouse clinic; laboratory animal science	10090	mouse	http://aber-owl.net/ontology/EMAPA
-enzymes; molecular interactions, pathways and networks; protein interactions	1	all life	http://aber-owl.net/ontology/EMO
-toxins and targets; toxicology; data identity and mapping	1	all life	http://aber-owl.net/ontology/ENM
-ecology	1	all life	http://aber-owl.net/ontology/ENVO
-ecology; plants; developmental biology; laboratory techniques	3193	plants	http://aber-owl.net/ontology/EO
-nutritional science; eukaryotes; ecology; developmental biology	33208	animalia	http://aber-owl.net/ontology/EOL
-cardiology; physiology; imaging; anatomy	9606	human	http://aber-owl.net/ontology/EP
-neurology; neurobiology; psychiatry	9606	human	http://aber-owl.net/ontology/EPILONT
-public health and epidemiology;	9606	human	http://aber-owl.net/ontology/EPO
-laboratory information management; biology; medicine	1	all life	http://aber-owl.net/ontology/ERO
-pathology; anatomy; developmental biology; cell biology; laboratory techniques; data curation and annotation	9606	human	http://aber-owl.net/ontology/EV
-laboratory information management; laboratory techniques;	1	all life	http://aber-owl.net/ontology/EXACT
-ecology; chemistry; biology; physics	9606	human	http://aber-owl.net/ontology/EXO
-medicine; biophysics	9606	human	http://aber-owl.net/ontology/FALL
-anatomy; fungi	4751	fungi	http://aber-owl.net/ontology/FAO
+pharmacology; pharmacokinetics and pharmacodynamics; molecular interactions, pathways and networks	1	All life	http://aber-owl.net/ontology/DRON
+laboratory techniques; cardiology; laboratory information management	1	All life	http://aber-owl.net/ontology/ECG
+laboratory techniques; genomics; literature and reference; data curation and annotation 	1	All life	http://aber-owl.net/ontology/ECO
+laboratory techniques; information management; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/ECP
+ecology; chemistry	1	All life	http://aber-owl.net/ontology/ECSO
+ontology and terminology	1	All life	http://aber-owl.net/ontology/EDAM
+ontology and terminology	1	All life	http://aber-owl.net/ontology/EDAMTO
+literature and reference	1	All life	http://aber-owl.net/ontology/EDDA
+drugs and target structures; pathology; anatomy; laboratory techniques; phenomics; cell biology; laboratory information management	1	All life	http://aber-owl.net/ontology/EFO
+anatomy; developmental biology	9606	Human	http://aber-owl.net/ontology/EHDA
+anatomy; developmental biology	9606	Human	http://aber-owl.net/ontology/EHDAA
+anatomy; developmental biology	9606	Human	http://aber-owl.net/ontology/EHDAA2
+oncology; preclinical and clinical studies; pathology	9606	Human	http://aber-owl.net/ontology/ELIG
+anatomy; developmental biology; mouse clinic; laboratory animal science	10090	Mouse	http://aber-owl.net/ontology/EMAP
+anatomy; developmental biology; mouse clinic; laboratory animal science	10090	Mouse	http://aber-owl.net/ontology/EMAPA
+enzymes; molecular interactions, pathways and networks; protein interactions	1	All life	http://aber-owl.net/ontology/EMO
+toxins and targets; toxicology; data identity and mapping	1	All life	http://aber-owl.net/ontology/ENM
+ecology	1	All life	http://aber-owl.net/ontology/ENVO
+ecology; plants; developmental biology; laboratory techniques	3193	Plants	http://aber-owl.net/ontology/EO
+nutritional science; eukaryotes; ecology; developmental biology	33208	Animalia	http://aber-owl.net/ontology/EOL
+cardiology; physiology; imaging; anatomy	9606	Human	http://aber-owl.net/ontology/EP
+neurology; neurobiology; psychiatry	9606	Human	http://aber-owl.net/ontology/EPILONT
+public health and epidemiology;	9606	Human	http://aber-owl.net/ontology/EPO
+laboratory information management; biology; medicine	1	All life	http://aber-owl.net/ontology/ERO
+pathology; anatomy; developmental biology; cell biology; laboratory techniques; data curation and annotation	9606	Human	http://aber-owl.net/ontology/EV
+laboratory information management; laboratory techniques;	1	All life	http://aber-owl.net/ontology/EXACT
+ecology; chemistry; biology; physics	9606	Human	http://aber-owl.net/ontology/EXO
+medicine; biophysics	9606	Human	http://aber-owl.net/ontology/FALL
+anatomy; fungi	4751	Fungi	http://aber-owl.net/ontology/FAO
 anatomy; invertebrates; genetics; molecular interactions, pathways and networks	7227	Drosophila melanogaste	http://aber-owl.net/ontology/FB-BT
-anatomy; invertebrates; phenomics; molecular interactions, pathways and networks	7215	drosophila 	http://aber-owl.net/ontology/FB-CV
+anatomy; invertebrates; phenomics; molecular interactions, pathways and networks	7215	Drosophila 	http://aber-owl.net/ontology/FB-CV
 anatomy; invertebrates; developmental biology; molecular interactions, pathways and networks	7227	Drosophila melanogaste	http://aber-owl.net/ontology/FB-DV
-invertebrates	7215	drosophila 	http://aber-owl.net/ontology/FB-SP
-sample collections; data visualisation; biological imaging; medical imaging	9606	human	http://aber-owl.net/ontology/FBBI
+invertebrates	7215	Drosophila 	http://aber-owl.net/ontology/FB-SP
+sample collections; data visualisation; biological imaging; medical imaging	9606	Human	http://aber-owl.net/ontology/FBBI
 anatomy; invertebrates; genetics; molecular interactions, pathways and networks	7227	Drosophila melanogaste	http://aber-owl.net/ontology/FBBT
-anatomy; invertebrates; phenomics; molecular interactions, pathways and networks	7215	drosophila 	http://aber-owl.net/ontology/FBCV
+anatomy; invertebrates; phenomics; molecular interactions, pathways and networks	7215	Drosophila 	http://aber-owl.net/ontology/FBCV
 anatomy; invertebrates; molecular interactions, pathways and networks; developmental biology	7227	Drosophila melanogaste	http://aber-owl.net/ontology/FBDV
-invertebrates	7215	drosophila 	http://aber-owl.net/ontology/FB-SP
-sample collections; data visualisation; biological imaging; medical imaging	9606	human	http://aber-owl.net/ontology/FBbi
-anatomy; invertebrates; genetics; molecular interactions, pathways and networks	7215	drosophila 	http://aber-owl.net/ontology/FBbt
-pathology; genetics; public health and epidemiology; population genetics	9606	human	http://aber-owl.net/ontology/FHHO
-ecology; physiology; molecular dynamics; plants	3193	plants	http://aber-owl.net/ontology/FIRE
-physiology; chemistry; biophysics; proteins; data identity and mapping	1	all life	http://aber-owl.net/ontology/FIX
-phenomics; developmental biology; anatomy	3193	plants	http://aber-owl.net/ontology/FLOPO
-infectious disease; respiratory medicine; viruses; public health and epidemiology; phenomics; ear, nose and throat medicine; allergy, clinical immunology and immunotherapeutics	9606, 7742	human, Vertebrata	http://aber-owl.net/ontology/FLU
-anatomy; cell biology; structural biology; phenomics	1	all life	http://aber-owl.net/ontology/FMA
+invertebrates	7215	Drosophila 	http://aber-owl.net/ontology/FB-SP
+sample collections; data visualisation; biological imaging; medical imaging	9606	Human	http://aber-owl.net/ontology/FBbi
+anatomy; invertebrates; genetics; molecular interactions, pathways and networks	7215	Drosophila 	http://aber-owl.net/ontology/FBbt
+pathology; genetics; public health and epidemiology; population genetics	9606	Human	http://aber-owl.net/ontology/FHHO
+ecology; physiology; molecular dynamics; plants	3193	Plants	http://aber-owl.net/ontology/FIRE
+physiology; chemistry; biophysics; proteins; data identity and mapping	1	All life	http://aber-owl.net/ontology/FIX
+phenomics; developmental biology; anatomy	3193	Plants	http://aber-owl.net/ontology/FLOPO
+infectious disease; respiratory medicine; viruses; public health and epidemiology; phenomics; ear, nose and throat medicine; allergy, clinical immunology and immunotherapeutics	9606, 7742	Human, vertebrata	http://aber-owl.net/ontology/FLU
+anatomy; cell biology; structural biology; phenomics	1	All life	http://aber-owl.net/ontology/FMA
 anatomy; developmental biology; plants	58023	Tracheophyta	http://aber-owl.net/ontology/FO
-nutritional science; analytical chemistry	1	all life	http://aber-owl.net/ontology/FOODO
+nutritional science; analytical chemistry	1	All life	http://aber-owl.net/ontology/FOODO
 phenomics; molecular interactions, pathways and networks; genetics; fungi	4896	Schizosaccharomyces pombe	http://aber-owl.net/ontology/FYPO
-medicine; data management biology	1	all life	http://aber-owl.net/ontology/GALEN
-ecology	1	all life	http://aber-owl.net/ontology/GAZ
-neurology; neurobiology; pathology; surgery; physiology; oncology; biomarkers	9606	human	http://aber-owl.net/ontology/GBM
-genetics; functional genomics; data integration; 	1	all life	http://aber-owl.net/ontology/GCO
-preclinical and clinical studies; functional genomics; pharmacogenomics; snps; genetic variation	9606	human	http://aber-owl.net/ontology/GENE-CDS
-ecology	1	all life	http://aber-owl.net/ontology/GEO
-imaging; ecology; organisms; data integration	1	all life	http://aber-owl.net/ontology/GEOSPECIES
-gene expression; data integration	1	all life	http://aber-owl.net/ontology/GEXO
-data integration	1	all life	http://aber-owl.net/ontology/GFO
-data integration	1	all life	http://aber-owl.net/ontology/GFO-BIO
-genetic variation; genomics	1	all life	http://aber-owl.net/ontology/GFVO
-structural biology; carbohydrates; lipids; proteins; data curation and annotation; molecular biology; compound libraries and screening	1	all life	http://aber-owl.net/ontology/GLYCO
-structural biology; carbohydrates; lipids; proteins; data curation and annotation; molecular biology; compound libraries and screening	1	all life	http://aber-owl.net/ontology/GLYCORDF
-functional genomics; plants; molecular genetics; data curation and annotation; data visualization	3193	plants	http://aber-owl.net/ontology/GMM
-microbiology; developmental biology; microbial collection	1	all life	http://aber-owl.net/ontology/GMO
-functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	all life	http://aber-owl.net/ontology/GO
-functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	all life	http://aber-owl.net/ontology/GO-EXT
-functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology; anatomy	1	all life	http://aber-owl.net/ontology/GO-PLUS
-data visualisation; molecular interactions, pathways and networks; data analysis	1	all life	http://aber-owl.net/ontology/GPML
+medicine; data management; biology	1	All life	http://aber-owl.net/ontology/GALEN
+ecology	1	All life	http://aber-owl.net/ontology/GAZ
+neurology; neurobiology; pathology; surgery; physiology; oncology; biomarkers	9606	Human	http://aber-owl.net/ontology/GBM
+genetics; functional genomics; data integration; 	1	All life	http://aber-owl.net/ontology/GCO
+preclinical and clinical studies; functional genomics; pharmacogenomics; snps; genetic variation	9606	Human	http://aber-owl.net/ontology/GENE-CDS
+ecology	1	All life	http://aber-owl.net/ontology/GEO
+imaging; ecology; organisms; data integration	1	All life	http://aber-owl.net/ontology/GEOSPECIES
+gene expression; data integration	1	All life	http://aber-owl.net/ontology/GEXO
+data integration; ontology and terminology	1	All life	http://aber-owl.net/ontology/GFO
+data integration; ontology and terminology	1	All life	http://aber-owl.net/ontology/GFO-BIO
+genetic variation; genomics	1	All life	http://aber-owl.net/ontology/GFVO
+structural biology; carbohydrates; lipids; proteins; data curation and annotation; molecular biology; compound libraries and screening	1	All life	http://aber-owl.net/ontology/GLYCO
+structural biology; carbohydrates; lipids; proteins; data curation and annotation; molecular biology; compound libraries and screening	1	All life	http://aber-owl.net/ontology/GLYCORDF
+functional genomics; plants; molecular genetics; data curation and annotation; data visualization	3193	Plants	http://aber-owl.net/ontology/GMM
+microbiology; developmental biology; microbial collection	1	All life	http://aber-owl.net/ontology/GMO
+functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	All life	http://aber-owl.net/ontology/GO
+functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	All life	http://aber-owl.net/ontology/GO-EXT
+functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology; anatomy	1	All life	http://aber-owl.net/ontology/GO-PLUS
+data visualisation; molecular interactions, pathways and networks; data analysis	1	All life	http://aber-owl.net/ontology/GPML
 anatomy; gene regulation; transcription factors and regulatory sites; plants	4479	Poaceae	http://aber-owl.net/ontology/GRO
 developmental biology; plants	4479	Poaceae	http://aber-owl.net/ontology/GRO-CPD
 anatomy; structural biology; plants	4479	Poaceae	http://aber-owl.net/ontology/GRO-CPGA
-laboratory techniques; genetics; laboratory information management; data integration	1	all life	http://aber-owl.net/ontology/GTO
-laboratory techniques; genetics; laboratory information management; data integration; phenomics	1	all life	http://aber-owl.net/ontology/GTO_TESTING
+laboratory techniques; genetics; laboratory information management; data integration	1	All life	http://aber-owl.net/ontology/GTO
+laboratory techniques; genetics; laboratory information management; data integration; phenomics	1	All life	http://aber-owl.net/ontology/GTO_TESTING
 developmental biology; anatomy; marine biology; eukaryotes; laboratory animal science	254849	Halocynthia aurantium	http://aber-owl.net/ontology/HAAURAADO
 invertebrates; biology; laboratory animal science	130929	Habronattus	http://aber-owl.net/ontology/HABRONATTUS
 anatomy; invertebrates	7399	Hymenoptera	http://aber-owl.net/ontology/HAO
-developmental biology; marine biology; anatomy; eukaryotes	7729	 Halocynthia roretzi	http://aber-owl.net/ontology/HAROREADO
+developmental biology; marine biology; anatomy; eukaryotes	7729	Halocynthia roretzi	http://aber-owl.net/ontology/HAROREADO
 invertebrates; biology; laboratory animal science	130929	Habronattus 	http://aber-owl.net/ontology/HC
-public health and epidemiology; laboratory techniques; surgery; anaesthesiology. pathology; laboratory information management; data integration	9606	human	http://aber-owl.net/ontology/HCPCS
-data integration; public health and epidemiology; laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/HEIO
-molecular interactions, pathways and networks; protein interactions	9606	human	http://aber-owl.net/ontology/HINO
+public health and epidemiology; laboratory techniques; surgery; anaesthesiology; pathology; laboratory information management; data integration	9606	Human	http://aber-owl.net/ontology/HCPCS
+data integration; public health and epidemiology; laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/HEIO
+molecular interactions, pathways and networks; protein interactions	9606	Human	http://aber-owl.net/ontology/HINO
 viruses; immunology; public health and epidemiology; infectious disease; allergy, clinical immunology and immunotherapeutics; reproductive health	12721, 9606	HIV, human	http://aber-owl.net/ontology/HIV
 viruses; immunology; public health and epidemiology; infectious disease; allergy, clinical immunology and immunotherapeutics; reproductive health	12721, 9606	HIV, human	http://aber-owl.net/ontology/HIVO004
-medical imaging; public health and epidemiology; preclinical and clinical studies; data management	1	all life	http://aber-owl.net/ontology/HL7
-biology; functional genomics	1	all life	http://aber-owl.net/ontology/HOM
-phenomics; pathology; anatomy; biochemistry	9606	human	http://aber-owl.net/ontology/HP
-pathology; molecular interactions, pathways and networks; eukaryotes	33208	animalia	http://aber-owl.net/ontology/HPIO
-rare diseases; molecular interactions, pathways and networks; genetics; phenomics	1	all life	http://aber-owl.net/ontology/HRDO
-developmental biology	9606	human	http://aber-owl.net/ontology/HSAPDV
-genomics; genetics; rna; phenomics	9606	human	http://aber-owl.net/ontology/HUGO
-physiology	9606	human	http://aber-owl.net/ontology/HUPSON
-data management	1	all life	http://aber-owl.net/ontology/IAO
-pathology; statistics	9606	human	http://aber-owl.net/ontology/ICD10
-pathology; statistics; preclinical and clinical studies; laboratory techniques	9606	human	http://aber-owl.net/ontology/ICD10CM
-laboratory techniques; pathology; statistics; preclinical and clinical studies; surgery	9606	human	http://aber-owl.net/ontology/ICD10PCS
-systems biology; systems medicine	9606	human	http://aber-owl.net/ontology/ICD11-BODYSYSTEM
-laboratory techniques; pathology; statistics; preclinical and clinical studies; surgery	9606	human	http://aber-owl.net/ontology/ICD9CM
-data management; paediatrics; statistics; trauma medicine	9606	human	http://aber-owl.net/ontology/ICECI
-ecology; data management; public health and epidemiology; physiology	9606	human	http://aber-owl.net/ontology/ICF
-laboratory techniques; laboratory information management	9606	human	http://aber-owl.net/ontology/ICNP
-data integration	9606	human	http://aber-owl.net/ontology/ICO
-data management; medicine; biology	1	all life	http://aber-owl.net/ontology/ICPC
-data management; medicine; biology	1	all life	http://aber-owl.net/ontology/ICPC2P
-safety sciences; data management	9606	human	http://aber-owl.net/ontology/ICPS
-infectious disease; public health and epidemiology	9606	human	http://aber-owl.net/ontology/IDO
-infectious disease; veterinary medicine; vertebrates; prokaryotes and archae; gastroenterology	9606, 7742, 234	human, Vertebrata, Brucella	http://aber-owl.net/ontology/IDOBRU
-infectious disease; viruses; invertebrates; public health and epidemiology	9606, 7157	human, Culicidae	http://aber-owl.net/ontology/IDODEN
-infectious disease; viruses; invertebrates; public health and epidemiology	9606, 7157	human, Culicidae	http://aber-owl.net/ontology/IDOMAL
-data management	1	all life	http://aber-owl.net/ontology/IDQA
-molecular interactions, pathways and networks; protein interactions	1	all life	http://aber-owl.net/ontology/IEV
-musculoskeletal medicine; pathology; genetics	9606	human	http://aber-owl.net/ontology/IFAR
-laboratory techniques; laboratory information management; genetics; data integration	1	all life	http://aber-owl.net/ontology/IGTO
-immunology; population genetics; systems biology; immunoproteins, genes and antigens; allergy, clinical immunology and immunotherapeutics; medical informatics; proteomics; genomics	1	all life	http://aber-owl.net/ontology/IMGT-ONTOLOGY
-immunology; immunoproteins, genes and antigens; allergy, clinical immunology and immunotherapeutics; pathology; 	9606	human	http://aber-owl.net/ontology/IMMDIS
-protein families; proteomics; molecular biology	1	all life	http://aber-owl.net/ontology/IMR
-molecular interactions, pathways and networks; protein interactions; molecular biology	1	all life	http://aber-owl.net/ontology/INO
-protein domains and folds; protein families; proteomics; molecular biology	1	all life	http://aber-owl.net/ontology/IPR
-molecular interactions, pathways and networks; protein interactions; molecular biology; toxins and targets; toxicology; data curation and annotation	9606	human	http://aber-owl.net/ontology/IXNO
-small molecules	1	all life	http://aber-owl.net/ontology/InterNano
-microbiology; systems biology; data management; microbial collection	1	all life	http://aber-owl.net/ontology/JERM
-biophysics; molecular modelling; systems biology; molecular dynamics	1	all life	http://aber-owl.net/ontology/KISAO
-neurobiology; neurology; psychiatry; paediatrics; text mining	9606	human	http://aber-owl.net/ontology/LDA
-psychiatry; data management	9606	human	http://aber-owl.net/ontology/LEGALAPA
-psychiatry; data management	9606	human	http://aber-owl.net/ontology/LEGALAPATEST2
+medical imaging; public health and epidemiology; preclinical and clinical studies; data management	1	All life	http://aber-owl.net/ontology/HL7
+biology; functional genomics	1	All life	http://aber-owl.net/ontology/HOM
+phenomics; pathology; anatomy; biochemistry	9606	Human	http://aber-owl.net/ontology/HP
+pathology; molecular interactions, pathways and networks; eukaryotes	33208	Animalia	http://aber-owl.net/ontology/HPIO
+rare diseases; molecular interactions, pathways and networks; genetics; phenomics	1	All life	http://aber-owl.net/ontology/HRDO
+developmental biology	9606	Human	http://aber-owl.net/ontology/HSAPDV
+genomics; genetics; rna; phenomics	9606	Human	http://aber-owl.net/ontology/HUGO
+physiology	9606	Human	http://aber-owl.net/ontology/HUPSON
+data management	1	All life	http://aber-owl.net/ontology/IAO
+pathology; statistics	9606	Human	http://aber-owl.net/ontology/ICD10
+pathology; statistics; preclinical and clinical studies; laboratory techniques	9606	Human	http://aber-owl.net/ontology/ICD10CM
+laboratory techniques; pathology; statistics; preclinical and clinical studies; surgery	9606	Human	http://aber-owl.net/ontology/ICD10PCS
+systems biology; systems medicine	9606	Human	http://aber-owl.net/ontology/ICD11-BODYSYSTEM
+laboratory techniques; pathology; statistics; preclinical and clinical studies; surgery	9606	Human	http://aber-owl.net/ontology/ICD9CM
+data management; paediatrics; statistics; trauma medicine	9606	Human	http://aber-owl.net/ontology/ICECI
+ecology; data management; public health and epidemiology; physiology	9606	Human	http://aber-owl.net/ontology/ICF
+laboratory techniques; laboratory information management	9606	Human	http://aber-owl.net/ontology/ICNP
+data integration	9606	Human	http://aber-owl.net/ontology/ICO
+data management; medicine; biology	1	All life	http://aber-owl.net/ontology/ICPC
+data management; medicine; biology	1	All life	http://aber-owl.net/ontology/ICPC2P
+safety sciences; data management	9606	Human	http://aber-owl.net/ontology/ICPS
+infectious disease; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/IDO
+infectious disease; veterinary medicine; vertebrates; prokaryotes and archae; gastroenterology	9606, 7742, 234	Human, vertebrata, brucella	http://aber-owl.net/ontology/IDOBRU
+infectious disease; viruses; invertebrates; public health and epidemiology	9606, 7157	Human, culicidae	http://aber-owl.net/ontology/IDODEN
+infectious disease; viruses; invertebrates; public health and epidemiology	9606, 7157	Human, culicidae	http://aber-owl.net/ontology/IDOMAL
+data management	1	All life	http://aber-owl.net/ontology/IDQA
+molecular interactions, pathways and networks; protein interactions	1	All life	http://aber-owl.net/ontology/IEV
+musculoskeletal medicine; pathology; genetics	9606	Human	http://aber-owl.net/ontology/IFAR
+laboratory techniques; laboratory information management; genetics; data integration	1	All life	http://aber-owl.net/ontology/IGTO
+immunology; population genetics; systems biology; immunoproteins, genes and antigens; allergy, clinical immunology and immunotherapeutics; medical informatics; proteomics; genomics	1	All life	http://aber-owl.net/ontology/IMGT-ONTOLOGY
+immunology; immunoproteins, genes and antigens; allergy, clinical immunology and immunotherapeutics; pathology; 	9606	Human	http://aber-owl.net/ontology/IMMDIS
+protein families; proteomics; molecular biology	1	All life	http://aber-owl.net/ontology/IMR
+molecular interactions, pathways and networks; protein interactions; molecular biology	1	All life	http://aber-owl.net/ontology/INO
+protein domains and folds; protein families; proteomics; molecular biology	1	All life	http://aber-owl.net/ontology/IPR
+molecular interactions, pathways and networks; protein interactions; molecular biology; toxins and targets; toxicology; data curation and annotation	9606	Human	http://aber-owl.net/ontology/IXNO
+small molecules	1	All life	http://aber-owl.net/ontology/InterNano
+microbiology; systems biology; data management; microbial collection	1	All life	http://aber-owl.net/ontology/JERM
+biophysics; molecular modelling; systems biology; molecular dynamics	1	All life	http://aber-owl.net/ontology/KISAO
+neurobiology; neurology; psychiatry; paediatrics; text mining	9606	Human	http://aber-owl.net/ontology/LDA
+psychiatry; data management	9606	Human	http://aber-owl.net/ontology/LEGALAPA
+psychiatry; data management	9606	Human	http://aber-owl.net/ontology/LEGALAPATEST2
 marine biology; anatomy; developmental biology; physiology; eukaryotes	8467	Caretta caretta	http://aber-owl.net/ontology/LHN
-lipids; systems biology; functional genomics	1	all life	http://aber-owl.net/ontology/LIPRO
+lipids; systems biology; functional genomics	1	All life	http://aber-owl.net/ontology/LIPRO
 marine biology; anatomy; developmental biology; physiology; eukaryotes	8467	Caretta caretta	http://aber-owl.net/ontology/LOGGERHEAD
-laboratory information management; laboratory techniques	1	all life	http://aber-owl.net/ontology/LOINC
-biology; eukaryotes; data management	33208	animalia	http://aber-owl.net/ontology/LPT
-anatomy; biology; laboratory animal science; eukaryotes; mouse clinic	10090	mouse	http://aber-owl.net/ontology/MA
-mathematics; systems biology; biochemistry; computational biology; computational chemistry	1	all life	http://aber-owl.net/ontology/MAMO
-sequence alignment; nucleic acid sequence analysis; protein sequence analysis; proteins; nucleic acids	1	all life	http://aber-owl.net/ontology/MANTANIA
-anatomy; biology; organisms	1	all life	http://aber-owl.net/ontology/MAT
-pathology; genetic variation; oncology; cell biology; cell culture collection; pharmacokinetics and pharmacodynamics; medicinal chemistry; anatomy; biochemistry	1	all life	http://aber-owl.net/ontology/MCBCC
-pathology; genetic variation; cell biology; cell culture collection; pharmacokinetics and pharmacodynamics; medicinal chemistry; anatomy; biochemistry	1	all life	http://aber-owl.net/ontology/MCCL
-microbiology; cell culture collection; microbial collection	1	all life	http://aber-owl.net/ontology/MCCV
-preclinical and clinical studies; pharmacology; pharmacokinetics and pharmacodynamics	1	all life	http://aber-owl.net/ontology/MDDB
-preclinical and clinical studies; pharmacology; pharmacokinetics and pharmacodynamics;pharmacovigilence; regulatory affairs	1	all life	http://aber-owl.net/ontology/MEDDRA
-public health and epidemiology; pathology; pharmacology	9606	human	http://aber-owl.net/ontology/MEDLINEPLUS
-laboratory animal science; laboratory techniques; genetics; phenomics; mouse clinic	10090	mouse	http://aber-owl.net/ontology/MEDO
-protein families; genetics;	1	all life	http://aber-owl.net/ontology/MEGO
-ecology; microbiology; organisms; metagenomics; microbial collection	1	all life	http://aber-owl.net/ontology/MEO
-medicine; data integration; biology	1	all life	http://aber-owl.net/ontology/MERA
-data management; biology; pathology	1	all life	http://aber-owl.net/ontology/MESH
-psychiatry pathology; 	1	all life	http://aber-owl.net/ontology/MF
-anatomy; musculoskeletal medicine; ear, nose and throat medicine; dentistry	40674	mammalia	http://aber-owl.net/ontology/MFMO
+laboratory information management; laboratory techniques	1	All life	http://aber-owl.net/ontology/LOINC
+biology; eukaryotes; data management	33208	Animalia	http://aber-owl.net/ontology/LPT
+anatomy; biology; laboratory animal science; eukaryotes; mouse clinic	10090	Mouse	http://aber-owl.net/ontology/MA
+mathematics; systems biology; biochemistry; computational biology; computational chemistry	1	All life	http://aber-owl.net/ontology/MAMO
+sequence alignment; nucleic acid sequence analysis; protein sequence analysis; proteins; nucleic acids	1	All life	http://aber-owl.net/ontology/MANTANIA
+anatomy; biology; organisms	1	All life	http://aber-owl.net/ontology/MAT
+pathology; genetic variation; oncology; cell biology; cell culture collection; pharmacokinetics and pharmacodynamics; medicinal chemistry; anatomy; biochemistry	1	All life	http://aber-owl.net/ontology/MCBCC
+pathology; genetic variation; cell biology; cell culture collection; pharmacokinetics and pharmacodynamics; medicinal chemistry; anatomy; biochemistry	1	All life	http://aber-owl.net/ontology/MCCL
+microbiology; cell culture collection; microbial collection	1	All life	http://aber-owl.net/ontology/MCCV
+preclinical and clinical studies; pharmacology; pharmacokinetics and pharmacodynamics	1	All life	http://aber-owl.net/ontology/MDDB
+preclinical and clinical studies; pharmacology; pharmacokinetics and pharmacodynamics;pharmacovigilence; regulatory affairs	1	All life	http://aber-owl.net/ontology/MEDDRA
+public health and epidemiology; pathology; pharmacology; ontology and terminology	9606	Human	http://aber-owl.net/ontology/MEDLINEPLUS
+laboratory animal science; laboratory techniques; genetics; phenomics; mouse clinic	10090	Mouse	http://aber-owl.net/ontology/MEDO
+protein families; genetics;	1	All life	http://aber-owl.net/ontology/MEGO
+ecology; microbiology; organisms; metagenomics; microbial collection	1	All life	http://aber-owl.net/ontology/MEO
+medicine; data integration; biology	1	All life	http://aber-owl.net/ontology/MERA
+data management; biology; pathology	1	All life	http://aber-owl.net/ontology/MESH
+psychiatry; pathology; 	1	All life	http://aber-owl.net/ontology/MF
+anatomy; musculoskeletal medicine; ear, nose and throat medicine; dentistry	40674	Mammalia	http://aber-owl.net/ontology/MFMO
 developmental biology; anatomy; marine biology; eukaryotes	8090	Oryzias latipes	http://aber-owl.net/ontology/MFO
-psychiatry	9606	human	http://aber-owl.net/ontology/MFOEM
-pathology; psychiatry	9606	human	http://aber-owl.net/ontology/MFOMD
+psychiatry	9606	Human	http://aber-owl.net/ontology/MFOEM
+pathology; psychiatry	9606	Human	http://aber-owl.net/ontology/MFOMD
 physiology; genetics; immunoproteins, genes and antigens; vertebrates; small molecules	7776	Gnathostomata	http://aber-owl.net/ontology/MHC
-protein interactions; molecular interactions, pathways and networks; laboratory techniques; data curation and annotation	1	all life	http://aber-owl.net/ontology/MI
-phylogenetics; genetics	1	all life	http://aber-owl.net/ontology/MIAPA
-phenomics; metabolomics; metabolites; metabolic pathways; prokaryotes and archae	2, 2157	bacteria, archaea	http://aber-owl.net/ontology/MIM
-molecular interactions, pathways and networks; molecular biology; chemical biology; genetics	1	all life	http://aber-owl.net/ontology/MIRNAO
-functional, regulatory and non-coding rna; metabolites; metabolomics	1	all life	http://aber-owl.net/ontology/MIRNAO
+protein interactions; molecular interactions, pathways and networks; laboratory techniques; data curation and annotation	1	All life	http://aber-owl.net/ontology/MI
+phylogenetics; genetics	1	All life	http://aber-owl.net/ontology/MIAPA
+phenomics; metabolomics; metabolites; metabolic pathways; prokaryotes and archae	2, 2157	Bacteria, archaea	http://aber-owl.net/ontology/MIM
+molecular interactions, pathways and networks; molecular biology; chemical biology; genetics	1	All life	http://aber-owl.net/ontology/MIRNAO
+functional, regulatory and non-coding rna; metabolites; metabolomics	1	All life	http://aber-owl.net/ontology/MIRNAO
 invertebrates; biology; laboratory animal science; pharmacology	7157	Culicidae	http://aber-owl.net/ontology/MIRO
-sequence analysis; sequencing	1	all life	http://aber-owl.net/ontology/MIXS
-sequence analysis; sequencing	1	all life	http://aber-owl.net/ontology/MIXSCV
-laboratory techniques; phenomics; preclinical and clinical studies	1	all life	http://aber-owl.net/ontology/MMO
-anatomy; developmental biology; mouse clinic; laboratory animal science	10090	mouse	http://aber-owl.net/ontology/MMUSDV
-gene expression; laboratory techniques	1	all life	http://aber-owl.net/ontology/MO
-protein modifications; molecular biology. chemical biology	1	all life	http://aber-owl.net/ontology/MOD
+sequence analysis; sequencing	1	All life	http://aber-owl.net/ontology/MIXS
+sequence analysis; sequencing	1	All life	http://aber-owl.net/ontology/MIXSCV
+laboratory techniques; phenomics; preclinical and clinical studies	1	All life	http://aber-owl.net/ontology/MMO
+anatomy; developmental biology; mouse clinic; laboratory animal science	10090	Mouse	http://aber-owl.net/ontology/MMUSDV
+gene expression; laboratory techniques	1	All life	http://aber-owl.net/ontology/MO
+protein modifications; molecular biology; chemical biology	1	All life	http://aber-owl.net/ontology/MOD
 marine biology; anatomy; developmental biology; physiology; eukaryotes	30282	Molgula occidentalis	http://aber-owl.net/ontology/MOOCCIADO
 marine biology; anatomy; developmental biology; physiology; eukaryotes	30283	Molgula occulta	http://aber-owl.net/ontology/MOOCCUADO
 marine biology; anatomy; developmental biology; physiology ;eukaryotes	30283	Molgula occulta	http://aber-owl.net/ontology/MOOCULADO
-molecular interactions, pathways and networks; molecular biology; chemical biology	1	all life	http://aber-owl.net/ontology/MOP
-eukaryotes; phenomics; anatomy; pathology; chemical biology	40674	mammalia	http://aber-owl.net/ontology/MP
-anatomy; phenomics; mouse clinic; laboratory animal science; pathology	10090	mouse	http://aber-owl.net/ontology/MPATH
- genetics; immunoproteins, genes and antigens; small molecules	1	all life	http://aber-owl.net/ontology/MRO
-proteomics; mass spectrometry; laboratory information management	1	all life	http://aber-owl.net/ontology/MS
-pathology; neurology; neurobiology; psychiatry	9606	human	http://aber-owl.net/ontology/MSO
-laboratory techniques; gastroenterology; systems medicine; pathology	9606	human	http://aber-owl.net/ontology/MSTDE
-laboratory techniques; gastroenterology; systems medicine; pathology	9606	human	http://aber-owl.net/ontology/MSTDE-FRE
-metagenomics; sample collections	1	all life	http://aber-owl.net/ontology/MSV
-data management	9606	human	http://aber-owl.net/ontology/MWLA
-chemical biology; biology	1	all life	http://aber-owl.net/ontology/NATPRO
-neurobiology; neurology; psychiatry; phenomics; biochemistry; chemical biology	9606	human	http://aber-owl.net/ontology/NBO
-data management; organisms	1	all life	http://aber-owl.net/ontology/NCBITAXON
-laboratory information management; medicine	9606	human	http://aber-owl.net/ontology/NCCO
-oncology; translational medicine; preclinical and clinical studies; bioinformatics; pathology	9606	human	http://aber-owl.net/ontology/NCIT
-oncology; pathology	9606	human	http://aber-owl.net/ontology/NCITHESAURUS
-functional, regulatory and non-coding rna	1	all life	http://aber-owl.net/ontology/NCRO
-medicines research and development; medicinal chemistry; pharmacology	1	all life	http://aber-owl.net/ontology/NDDF
-medicines research and development; medicinal chemistry; pharmacology	1	all life	http://aber-owl.net/ontology/NDFRT
-neurobiology; neurology; psychiatry; biophysics	9606	human	http://aber-owl.net/ontology/NEMO
-oncology; dentistry; pathology; medical informatics	9606	human	http://aber-owl.net/ontology/NEOMARK3
-oncology; dentistry; pathology; medical informatics	9606	human	http://aber-owl.net/ontology/NEOMARK4
-biophysics; neurology; neurobiology	9606	human	http://aber-owl.net/ontology/NEUMORE
-sequencing; laboratory information management; genomics; dna	1	all life	http://aber-owl.net/ontology/NGSONTO
-quality affairs; data management	9606	human	http://aber-owl.net/ontology/NHSQI2009
-laboratory information management; medicine	9606	human	http://aber-owl.net/ontology/NIC
-cell biology; neurology; neurobiology; data integration; biomedical science	1	all life	http://aber-owl.net/ontology/NIFCELL
-pathology; neurology; neurobiology; biomedical science	9606	human	http://aber-owl.net/ontology/NIFDYS
-cell biology; neurology; neurobiology; data integration; biomedical science	1	all life	http://aber-owl.net/ontology/NIFSTD
-structural biology; cell biology; proteins; neurology; neurobiology; data integration; biomedical science	1	all life	http://aber-owl.net/ontology/NIFSUBCELL
-cell biology; neurology; neurobiology; data integration	1	all life	http://aber-owl.net/ontology/NIF_CELL
-pathology; neurology; neurobiology; biomedical science	9606	human	http://aber-owl.net/ontology/NIF_DYSFUNCTION
-neurology; neurobiology; data integration; anatomy	1	all life	http://aber-owl.net/ontology/NIF_GROSSANATOMY
-systems biology; systems medicine; neurology; neurobiology; data integration; immunology; immunoproteins, genes and antigens; genetics	96061011410090	human, rat, mouse	http://aber-owl.net/ontology/NIGO
-neurology; neurobiology; data integration	9606	human	http://aber-owl.net/ontology/NIHSS
-medicine; data management	9606	human	http://aber-owl.net/ontology/NLMVS
-neurology; neurobiology; data integration	1	all life	http://aber-owl.net/ontology/NMOBR
-neurology; neurobiology; data integration ;genetics; organisms	1	all life	http://aber-owl.net/ontology/NMOSP
-metabolomics; metabolites; data integration	1	all life	http://aber-owl.net/ontology/NMR
-preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/NONRCTO
+molecular interactions, pathways and networks; molecular biology; chemical biology	1	All life	http://aber-owl.net/ontology/MOP
+eukaryotes; phenomics; anatomy; pathology; chemical biology	40674	Mammalia	http://aber-owl.net/ontology/MP
+anatomy; phenomics; mouse clinic; laboratory animal science; pathology	10090	Mouse	http://aber-owl.net/ontology/MPATH
+ genetics; immunoproteins, genes and antigens; small molecules	1	All life	http://aber-owl.net/ontology/MRO
+proteomics; mass spectrometry; laboratory information management	1	All life	http://aber-owl.net/ontology/MS
+pathology; neurology; neurobiology; psychiatry	9606	Human	http://aber-owl.net/ontology/MSO
+laboratory techniques; gastroenterology; systems medicine; pathology	9606	Human	http://aber-owl.net/ontology/MSTDE
+laboratory techniques; gastroenterology; systems medicine; pathology	9606	Human	http://aber-owl.net/ontology/MSTDE-FRE
+metagenomics; sample collections	1	All life	http://aber-owl.net/ontology/MSV
+data management	9606	Human	http://aber-owl.net/ontology/MWLA
+chemical biology; biology	1	All life	http://aber-owl.net/ontology/NATPRO
+neurobiology; neurology; psychiatry; phenomics; biochemistry; chemical biology	9606	Human	http://aber-owl.net/ontology/NBO
+data management; organisms	1	All life	http://aber-owl.net/ontology/NCBITAXON
+laboratory information management; medicine	9606	Human	http://aber-owl.net/ontology/NCCO
+oncology; translational medicine; preclinical and clinical studies; bioinformatics; pathology	9606	Human	http://aber-owl.net/ontology/NCIT
+oncology; pathology	9606	Human	http://aber-owl.net/ontology/NCITHESAURUS
+functional, regulatory and non-coding rna	1	All life	http://aber-owl.net/ontology/NCRO
+medicines research and development; medicinal chemistry; pharmacology	1	All life	http://aber-owl.net/ontology/NDDF
+medicines research and development; medicinal chemistry; pharmacology	1	All life	http://aber-owl.net/ontology/NDFRT
+neurobiology; neurology; psychiatry; biophysics	9606	Human	http://aber-owl.net/ontology/NEMO
+oncology; dentistry; pathology; medical informatics	9606	Human	http://aber-owl.net/ontology/NEOMARK3
+oncology; dentistry; pathology; medical informatics	9606	Human	http://aber-owl.net/ontology/NEOMARK4
+biophysics; neurology; neurobiology	9606	Human	http://aber-owl.net/ontology/NEUMORE
+sequencing; laboratory information management; genomics; dna	1	All life	http://aber-owl.net/ontology/NGSONTO
+quality affairs; data management	9606	Human	http://aber-owl.net/ontology/NHSQI2009
+laboratory information management; medicine	9606	Human	http://aber-owl.net/ontology/NIC
+cell biology; neurology; neurobiology; data integration; biomedical science	1	All life	http://aber-owl.net/ontology/NIFCELL
+pathology; neurology; neurobiology; biomedical science	9606	Human	http://aber-owl.net/ontology/NIFDYS
+cell biology; neurology; neurobiology; data integration; biomedical science	1	All life	http://aber-owl.net/ontology/NIFSTD
+structural biology; cell biology; proteins; neurology; neurobiology; data integration; biomedical science	1	All life	http://aber-owl.net/ontology/NIFSUBCELL
+cell biology; neurology; neurobiology; data integration	1	All life	http://aber-owl.net/ontology/NIF_CELL
+pathology; neurology; neurobiology; biomedical science	9606	Human	http://aber-owl.net/ontology/NIF_DYSFUNCTION
+neurology; neurobiology; data integration; anatomy	1	All life	http://aber-owl.net/ontology/NIF_GROSSANATOMY
+systems biology; systems medicine; neurology; neurobiology; data integration; immunology; immunoproteins, genes and antigens; genetics	96061011410090	Human, rat, mouse	http://aber-owl.net/ontology/NIGO
+neurology; neurobiology; data integration	9606	Human	http://aber-owl.net/ontology/NIHSS
+medicine; data management	9606	Human	http://aber-owl.net/ontology/NLMVS
+neurology; neurobiology; data integration	1	All life	http://aber-owl.net/ontology/NMOBR
+neurology; neurobiology; data integration ;genetics; organisms	1	All life	http://aber-owl.net/ontology/NMOSP
+metabolomics; metabolites; data integration	1	All life	http://aber-owl.net/ontology/NMR
+preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/NONRCTO
 plants; phenomics; anatomy; developmental biology	4070	Solanaceae	http://aber-owl.net/ontology/NPHO
-oncology; biophysics; chemistry; pathology	1	all life	http://aber-owl.net/ontology/NPO
-infectious tropical disease; public health and epidemiology	9606	human	http://aber-owl.net/ontology/NTDO
-pharmacovigilence; pharmacology	1	all life	http://aber-owl.net/ontology/OAE
-anatomy; chemical biology; biology; organisms	1	all life	http://aber-owl.net/ontology/OBA
-preclinical and clinical studies; statistics; biology; chemical biology; biomedical science	1	all life	http://aber-owl.net/ontology/OBCS
-preclinical and clinical studies; functional genomics; biology; biomedical science; data curation and annotation	9606	human	http://aber-owl.net/ontology/OBI
-biobank; laboratory information management; biomedical science; data curation and annotation	9606	human	http://aber-owl.net/ontology/OBIB
-bioinformatics; biology; biomedical science; data curation and annotation	1	all life	http://aber-owl.net/ontology/OBIWS
-cell biology; genomics; data curation and annotation	1	all life	http://aber-owl.net/ontology/OBI_BCGO
-ecology; data acquisition and deposition	1	all life	http://aber-owl.net/ontology/OBOE-SBC
-biology; biomedical science; data management	1	all life	http://aber-owl.net/ontology/OBOREL
-biology; biomedical science; data management	1	all life	http://aber-owl.net/ontology/OBO_REL
-data management; preclinical and clinical studies; biomedical science	9606	human	http://aber-owl.net/ontology/OCRE
-pharmacovigilence; pharmacology; neurobiology; neurology	1	all life	http://aber-owl.net/ontology/ODNAE
-population genetics; pathology; genomics,, genetic variation; endocrinology and metabolism	9606	human	http://aber-owl.net/ontology/OGDI
-genetics; genomics; organisms	1	all life	http://aber-owl.net/ontology/OGG
-genetics; genomics; laboratory animal science; mouse clinic	10090	mouse	http://aber-owl.net/ontology/OGG-MM
-genetics; genomics; dna; rna; biomarkers; 	1	all life	http://aber-owl.net/ontology/OGI
-pathology; phenomics; endocrinology and metabolism; metabolomics; metabolites	9606	human	http://aber-owl.net/ontology/OGMD
-oncology; pathology	9606	human	http://aber-owl.net/ontology/OGMS
-ecology	1	all life	http://aber-owl.net/ontology/OGR
-genetics; pharmacology; pharmacovigilence; pathology	9606	human	http://aber-owl.net/ontology/OGSF
-marine biology; anatomy; developmental biology; physiology; eukaryotes	8090	 Oryzias latipes	http://aber-owl.net/ontology/OLATDV
-population genetics; biomedical science	9606	human	http://aber-owl.net/ontology/OMIM
-rna; cell biology; pathology; bioinformatics; genetics	9606	human	http://aber-owl.net/ontology/OMIT
-microbiology; phenomics; microbial collection	1	all life	http://aber-owl.net/ontology/OMP
-public health and epidemiology; data management	9606	human	http://aber-owl.net/ontology/OMRSE
-imaging; neurology; neurobiology; data integration	9606	human	http://aber-owl.net/ontology/ONL-DP
-imaging; neurology; neurobiology; data integration	9606	human	http://aber-owl.net/ontology/ONL-MR-DA
-psychiatry; imaging; neurology; neurobiology; data integration	9606	human	http://aber-owl.net/ontology/ONL-MSA
-hepatic and biliary medicine; medical imaging	9606	human	http://aber-owl.net/ontology/ONLIRA
-translational medicine; paediatrics; data integration	9606	human	http://aber-owl.net/ontology/ONSTR
-neurobiology; neurology; pathology; psychiatry; geriatric medicine; pathology	9606	human	http://aber-owl.net/ontology/ONTOAD
-data analysis; data curation and annotation; computer science	1	all life	http://aber-owl.net/ontology/ONTODM-CORE
-data analysis; data curation and annotation; computer science	1	all life	http://aber-owl.net/ontology/ONTODM-KDD
-data analysis; data curation and annotation; computer science	1	all life	http://aber-owl.net/ontology/ONTODT
-molecular modelling; molecular genetics; respiratory medicine; hepatic and biliary medicine; urology and nephrology; gastroenterology; pathology; public health and epidemiology	9606	human	http://aber-owl.net/ontology/ONTOKBCF
-public health and epidemiology; data management	9606	human	http://aber-owl.net/ontology/ONTOLURGENCES
-complementary medicine	9606	human	http://aber-owl.net/ontology/ONTOMA
-respiratory medicine	9606	human	http://aber-owl.net/ontology/ONTOPNEUMO
-toxicology; toxins and targets; medical toxicology	9606	human	http://aber-owl.net/ontology/ONTOTOXNUC
-laboratory techniques; laboratory information management	1	all life	http://aber-owl.net/ontology/OOEVV
-biophysics; molecular dynamics; systems biology`	1	all life	http://aber-owl.net/ontology/OPB
-musculoskeletal medicine; biology	1	all life	http://aber-owl.net/ontology/OPE
-developmental biology; parasitology; organisms	1	all life	http://aber-owl.net/ontology/OPL
-rare diseases; computational biology; medical informatics; genetics; literature and reference; phenomics; public health and epidemiology	9606	human	http://aber-owl.net/ontology/ORDO
-population genetics; bioinformatics	1	all life	http://aber-owl.net/ontology/ORTHO
-pharmacovigilence; pharmacology; immunoproteins, genes and antigens; immunology; pathology	9606	human	http://aber-owl.net/ontology/OVAE
-medical imaging; public health and epidemiology; data management; anatomy; pathology	9606	human	http://aber-owl.net/ontology/OntoVIP
-plants; anatomy; developmental biology; cell biology	3193	plants	http://aber-owl.net/ontology/PAE
-plants; anatomy; developmental biology; cell biology	3193	plants	http://aber-owl.net/ontology/PAO
-anatomy; pathology	9606	human	http://aber-owl.net/ontology/PATHLEX
-phenomics	1	all life	http://aber-owl.net/ontology/PATO
-data curation and annotation	1	all life	http://aber-owl.net/ontology/PAV
-data management; organisms	1	all life	http://aber-owl.net/ontology/PCO
-micriobiology; infectious disease; microbial collection	9606	human	http://aber-owl.net/ontology/PDO
-neurobiology; neurology; pathology; psychiatry; geriatric medicine; biomedical science; molecular medicine; molecular biology	9606	human	http://aber-owl.net/ontology/PDON
-plants; biodiversity	3193	plants	http://aber-owl.net/ontology/PDO_CAS
-oncology; preclinical and clinical studies; genetics; pharmacology; data search, query and retrieval	9606	human	http://aber-owl.net/ontology/PDQ
+oncology; biophysics; chemistry; pathology	1	All life	http://aber-owl.net/ontology/NPO
+infectious tropical disease; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/NTDO
+pharmacovigilence; pharmacology	1	All life	http://aber-owl.net/ontology/OAE
+anatomy; chemical biology; biology; organisms	1	All life	http://aber-owl.net/ontology/OBA
+preclinical and clinical studies; statistics; biology; chemical biology; biomedical science	1	All life	http://aber-owl.net/ontology/OBCS
+preclinical and clinical studies; functional genomics; biology; biomedical science; data curation and annotation	9606	Human	http://aber-owl.net/ontology/OBI
+biobank; laboratory information management; biomedical science; data curation and annotation	9606	Human	http://aber-owl.net/ontology/OBIB
+bioinformatics; biology; biomedical science; data curation and annotation	1	All life	http://aber-owl.net/ontology/OBIWS
+cell biology; genomics; data curation and annotation	1	All life	http://aber-owl.net/ontology/OBI_BCGO
+ecology; data acquisition and deposition	1	All life	http://aber-owl.net/ontology/OBOE-SBC
+biology; biomedical science; data management	1	All life	http://aber-owl.net/ontology/OBOREL
+biology; biomedical science; data management	1	All life	http://aber-owl.net/ontology/OBO_REL
+data management; preclinical and clinical studies; biomedical science	9606	Human	http://aber-owl.net/ontology/OCRE
+pharmacovigilence; pharmacology; neurobiology; neurology	1	All life	http://aber-owl.net/ontology/ODNAE
+population genetics; pathology; genomics; genetic variation; endocrinology and metabolism	9606	Human	http://aber-owl.net/ontology/OGDI
+genetics; genomics; organisms	1	All life	http://aber-owl.net/ontology/OGG
+genetics; genomics; laboratory animal science; mouse clinic	10090	Mouse	http://aber-owl.net/ontology/OGG-MM
+genetics; genomics; dna; rna; biomarkers; 	1	All life	http://aber-owl.net/ontology/OGI
+pathology; phenomics; endocrinology and metabolism; metabolomics; metabolites	9606	Human	http://aber-owl.net/ontology/OGMD
+oncology; pathology	9606	Human	http://aber-owl.net/ontology/OGMS
+ecology	1	All life	http://aber-owl.net/ontology/OGR
+genetics; pharmacology; pharmacovigilence; pathology	9606	Human	http://aber-owl.net/ontology/OGSF
+marine biology; anatomy; developmental biology; physiology; eukaryotes	8090	Oryzias latipes	http://aber-owl.net/ontology/OLATDV
+population genetics; biomedical science	9606	Human	http://aber-owl.net/ontology/OMIM
+rna; cell biology; pathology; bioinformatics; genetics	9606	Human	http://aber-owl.net/ontology/OMIT
+microbiology; phenomics; microbial collection	1	All life	http://aber-owl.net/ontology/OMP
+public health and epidemiology; data management	9606	Human	http://aber-owl.net/ontology/OMRSE
+imaging; neurology; neurobiology; data integration	9606	Human	http://aber-owl.net/ontology/ONL-DP
+imaging; neurology; neurobiology; data integration	9606	Human	http://aber-owl.net/ontology/ONL-MR-DA
+psychiatry; imaging; neurology; neurobiology; data integration	9606	Human	http://aber-owl.net/ontology/ONL-MSA
+hepatic and biliary medicine; medical imaging	9606	Human	http://aber-owl.net/ontology/ONLIRA
+translational medicine; paediatrics; data integration	9606	Human	http://aber-owl.net/ontology/ONSTR
+neurobiology; neurology; pathology; psychiatry; geriatric medicine; pathology	9606	Human	http://aber-owl.net/ontology/ONTOAD
+data analysis; data curation and annotation; computer science	1	All life	http://aber-owl.net/ontology/ONTODM-CORE
+data analysis; data curation and annotation; computer science	1	All life	http://aber-owl.net/ontology/ONTODM-KDD
+data analysis; data curation and annotation; computer science	1	All life	http://aber-owl.net/ontology/ONTODT
+molecular modelling; molecular genetics; respiratory medicine; hepatic and biliary medicine; urology and nephrology; gastroenterology; pathology; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/ONTOKBCF
+public health and epidemiology; data management	9606	Human	http://aber-owl.net/ontology/ONTOLURGENCES
+complementary medicine	9606	Human	http://aber-owl.net/ontology/ONTOMA
+respiratory medicine	9606	Human	http://aber-owl.net/ontology/ONTOPNEUMO
+toxicology; toxins and targets; medical toxicology	9606	Human	http://aber-owl.net/ontology/ONTOTOXNUC
+laboratory techniques; laboratory information management	1	All life	http://aber-owl.net/ontology/OOEVV
+biophysics; molecular dynamics; systems biology	1	All life	http://aber-owl.net/ontology/OPB
+musculoskeletal medicine; biology	1	All life	http://aber-owl.net/ontology/OPE
+developmental biology; parasitology; organisms	1	All life	http://aber-owl.net/ontology/OPL
+rare diseases; computational biology; medical informatics; genetics; literature and reference; phenomics; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/ORDO
+population genetics; bioinformatics	1	All life	http://aber-owl.net/ontology/ORTHO
+pharmacovigilence; pharmacology; immunoproteins, genes and antigens; immunology; pathology	9606	Human	http://aber-owl.net/ontology/OVAE
+medical imaging; public health and epidemiology; data management; anatomy; pathology	9606	Human	http://aber-owl.net/ontology/OntoVIP
+plants; anatomy; developmental biology; cell biology	3193	Plants	http://aber-owl.net/ontology/PAE
+plants; anatomy; developmental biology; cell biology	3193	Plants	http://aber-owl.net/ontology/PAO
+anatomy; pathology	9606	Human	http://aber-owl.net/ontology/PATHLEX
+phenomics	1	All life	http://aber-owl.net/ontology/PATO
+data curation and annotation	1	All life	http://aber-owl.net/ontology/PAV
+data management; organisms	1	All life	http://aber-owl.net/ontology/PCO
+microbiology; infectious disease; microbial collection	9606	Human	http://aber-owl.net/ontology/PDO
+neurobiology; neurology; pathology; psychiatry; geriatric medicine; biomedical science; molecular medicine; molecular biology	9606	Human	http://aber-owl.net/ontology/PDON
+plants; biodiversity	3193	Plants	http://aber-owl.net/ontology/PDO_CAS
+oncology; preclinical and clinical studies; genetics; pharmacology; data search, query and retrieval	9606	Human	http://aber-owl.net/ontology/PDQ
 marine biology; anatomy; developmental biology; anatomy; invertebrates	6358	Platynereis	http://aber-owl.net/ontology/PDUMDV
 marine biology; anatomy; developmental biology; anatomy; invertebrates	6358	Platynereis	http://aber-owl.net/ontology/PD_ST
-laboratory techniques; plants; anatomy; developmental biology	3193	plants	http://aber-owl.net/ontology/PEAO
-ecology; plants; developmental biology	3193	plants	http://aber-owl.net/ontology/PECO
-paediatrics; gynaecology and obstetrics; developmental biology; anatomy	9606	human	http://aber-owl.net/ontology/PEDTERM
-developmental biology; parasitology; organisms; laboratory animal science; gene expression	1	all life	http://aber-owl.net/ontology/PEO
-ecology; plants; developmental biology	3193	plants	http://aber-owl.net/ontology/PGDSO
-pharmacogenomics; phenomics	1	all life	http://aber-owl.net/ontology/PHARE
-chemical biology; biology; phenomics; pharmacology	1	all life	http://aber-owl.net/ontology/PHARMGKB
-pathology; phenomics; anatomy	1	all life	http://aber-owl.net/ontology/PHENOMEBLAST
-ecology; phenomics; pathology	9606	human	http://aber-owl.net/ontology/PHENX
+laboratory techniques; plants; anatomy; developmental biology	3193	Plants	http://aber-owl.net/ontology/PEAO
+ecology; plants; developmental biology	3193	Plants	http://aber-owl.net/ontology/PECO
+paediatrics; gynaecology and obstetrics; developmental biology; anatomy	9606	Human	http://aber-owl.net/ontology/PEDTERM
+developmental biology; parasitology; organisms; laboratory animal science; gene expression	1	All life	http://aber-owl.net/ontology/PEO
+ecology; plants; developmental biology	3193	Plants	http://aber-owl.net/ontology/PGDSO
+pharmacogenomics; phenomics	1	All life	http://aber-owl.net/ontology/PHARE
+chemical biology; biology; phenomics; pharmacology	1	All life	http://aber-owl.net/ontology/PHARMGKB
+pathology; phenomics; anatomy	1	All life	http://aber-owl.net/ontology/PHENOMEBLAST
+ecology; phenomics; pathology	9606	Human	http://aber-owl.net/ontology/PHENX
 marine biology; eukaryotes; developmental biology; anatomy	395376	Phallusia fumigata	http://aber-owl.net/ontology/PHFUMIADO
 marine biology; eukaryotes; developmental biology; anatomy	395376	Phallusia fumigata	http://aber-owl.net/ontology/PHMAMMADO
-phylogenetics; computational biology; bioinformatics	1	all life	http://aber-owl.net/ontology/PHYLONT
-data curation and annotation; enzymes; molecular interactions, pathways and networks; metabolomics; metabolites	1	all life	http://aber-owl.net/ontology/PIERO
-protein interactions; data curation and annotation; molecular interactions, pathways and networks; proteomics	1	all life	http://aber-owl.net/ontology/PLIO
+phylogenetics; computational biology; bioinformatics	1	All life	http://aber-owl.net/ontology/PHYLONT
+data curation and annotation; enzymes; molecular interactions, pathways and networks; metabolomics; metabolites	1	All life	http://aber-owl.net/ontology/PIERO
+protein interactions; data curation and annotation; molecular interactions, pathways and networks; proteomics	1	All life	http://aber-owl.net/ontology/PLIO
 microbiology; developmental biology; parasitology	5820	Plasmodium	http://aber-owl.net/ontology/PLO
-ontology and terminology	1	all life	http://aber-owl.net/ontology/PLOSTHES
-data management	1	all life	http://aber-owl.net/ontology/PMA
-medical informatics; preclinical and clinical studies; data integration	1	all life	http://aber-owl.net/ontology/PMR
-anatomy; genomics; plants; developmental biology	3193	plants	http://aber-owl.net/ontology/PO
+ontology and terminology	1	All life	http://aber-owl.net/ontology/PLOSTHES
+data management	1	All life	http://aber-owl.net/ontology/PMA
+medical informatics; preclinical and clinical studies; data integration	1	All life	http://aber-owl.net/ontology/PMR
+anatomy; genomics; plants; developmental biology	3193	Plants	http://aber-owl.net/ontology/PO
 marine biology; eukaryotes; developmental biology; anatomy	6040	Porifera 	http://aber-owl.net/ontology/PORO
-data management	1	all life	http://aber-owl.net/ontology/PP
-protein interactions; data curation and annotation; molecular interactions, pathways and networks; proteomics	1	all life	http://aber-owl.net/ontology/PPIO
-proteomics; proteins; evolutionary biology 	1	all life	http://aber-owl.net/ontology/PR
-proteomics; proteins	1	all life	http://aber-owl.net/ontology/PROPREO
-data curation and annotation	1	all life	http://aber-owl.net/ontology/PROVO
-plants; developmental biology	3193	plants	http://aber-owl.net/ontology/PSDS
-protein modifications; molecular biology. chemical biology; peptides and amino acids	1	all life	http://aber-owl.net/ontology/PSIMOD
-plants; phenomics; developmental biology	3193	plants	http://aber-owl.net/ontology/PTO
-pathology; public health and epidemiology; pathogens	9606	human	http://aber-owl.net/ontology/PTRANS
-molecular interactions, pathways and networks; chemical biology	1	all life	http://aber-owl.net/ontology/PTS
-pharmacovigilence; molecular biology; pathology; pharmacology	1	all life	http://aber-owl.net/ontology/PVONTO
-molecular interactions, pathways and networks; chemical biology; genetics; data curation and annotation	1	all life	http://aber-owl.net/ontology/PW
-biomarkers; pharmacology; medical imaging; biological imaging	9606	human	http://aber-owl.net/ontology/QIBO
-data management	1	all life	http://aber-owl.net/ontology/QUDT
-laboratory techniques	9606	human	http://aber-owl.net/ontology/RADLEX
-trauma medicine; neurology; neurobiology	9606	human	http://aber-owl.net/ontology/RB
-public health and epidemiology; data management; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/RCD
-preclinical and clinical studies; laboratory techniques	9606	human	http://aber-owl.net/ontology/RCTONT
-reproductive health; phenomics	33208	animalia	http://aber-owl.net/ontology/REPO
-protein structure analysis; proteins; structural biology	1	all life	http://aber-owl.net/ontology/RESID
-transcription factors and regulatory sites; data integration	1	all life	http://aber-owl.net/ontology/RETO
-physics; chemistry	1	all life	http://aber-owl.net/ontology/REX
-gene regulation; data integration	1	all life	http://aber-owl.net/ontology/REXO
-pharmacology; data integration; pathology; physiology; systems medicine; psychiatry	1	all life	http://aber-owl.net/ontology/RH-MESH
-rna; structural biology; sequence sites, features and motifs	1	all life	http://aber-owl.net/ontology/RNAO
-public health and epidemiology; data management; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/RNPRIO
-data management	1	all life	http://aber-owl.net/ontology/RO
-data management	1	all life	http://aber-owl.net/ontology/ROLEO
-oncology; pathology	9606	human	http://aber-owl.net/ontology/ROO
-public health and epidemiology; phenomics; immunology; allergy, clinical immunology and immunotherapeutics.	9606	human	http://aber-owl.net/ontology/RPO
-laboratory animal science; eukaryotes	10114	rat	http://aber-owl.net/ontology/RS
-sequence analysis; data curation and annotation; 	1	all life	http://aber-owl.net/ontology/RSA
-synthetic chemistry; biochemistry; molecular interactions, pathways and networks	1	all life	http://aber-owl.net/ontology/RXNO
-preclinical and clinical studies; medicinal chemistry; pharmacology; medicines research and development	1	all life	http://aber-owl.net/ontology/RXNORM
-cell biology; anatomy; small molecules; structural biology	1	all life	http://aber-owl.net/ontology/SAO
-systems biology; computational biology; bioinformatics	1	all life	http://aber-owl.net/ontology/SBO
-synthetic chemistry; data curation and annotation; data visualisation; dna; nucleic acid sequence analysis	1	all life	http://aber-owl.net/ontology/SBOL
-data management	1	all life	http://aber-owl.net/ontology/SCHEMA
-documentation and help; data management	1	all life	http://aber-owl.net/ontology/SD3
-neurology; neurobiology; psychiatry; 	9606	human	http://aber-owl.net/ontology/SDO
-biological imaging; medical imaging; data acquisition and deposition	9606	human	http://aber-owl.net/ontology/SEDI
-sample collections; laboratory techniques; data curation and annotation	1	all life	http://aber-owl.net/ontology/SEP
-public health and epidemiology; pathology; laboratory techniques	9606	human	http://aber-owl.net/ontology/SHR
-developmental biology; invertebrates; anatomy	50557	insecta	http://aber-owl.net/ontology/SIBO
-data integration	1	all life	http://aber-owl.net/ontology/SIO
-public health and epidemiology; data management	9606	human	http://aber-owl.net/ontology/SITBAC
-text mining; public health and epidemiology; biology	9606	human	http://aber-owl.net/ontology/SMASH
-veterinary medicine; data management; organisms	1	all life	http://aber-owl.net/ontology/SNMI
-data management; preclinical and clinical studies	9606	human	http://aber-owl.net/ontology/SNOMEDCT
-snps; genomics; data integration	1	all life	http://aber-owl.net/ontology/SNPO
-sequence analysis; data curation and annotation;	1	all life	http://aber-owl.net/ontology/SO
-pharmacogenomics; phenomics; preclinical and clinical studies; genomics	1	all life	http://aber-owl.net/ontology/SOPHARM
+data management	1	All life	http://aber-owl.net/ontology/PP
+protein interactions; data curation and annotation; molecular interactions, pathways and networks; proteomics	1	All life	http://aber-owl.net/ontology/PPIO
+proteomics; proteins; evolutionary biology 	1	All life	http://aber-owl.net/ontology/PR
+proteomics; proteins	1	All life	http://aber-owl.net/ontology/PROPREO
+data curation and annotation	1	All life	http://aber-owl.net/ontology/PROVO
+plants; developmental biology	3193	Plants	http://aber-owl.net/ontology/PSDS
+protein modifications; molecular biology; chemical biology; peptides and amino acids	1	All life	http://aber-owl.net/ontology/PSIMOD
+plants; phenomics; developmental biology	3193	Plants	http://aber-owl.net/ontology/PTO
+pathology; public health and epidemiology; pathogens	9606	Human	http://aber-owl.net/ontology/PTRANS
+molecular interactions, pathways and networks; chemical biology	1	All life	http://aber-owl.net/ontology/PTS
+pharmacovigilence; molecular biology; pathology; pharmacology	1	All life	http://aber-owl.net/ontology/PVONTO
+molecular interactions, pathways and networks; chemical biology; genetics; data curation and annotation	1	All life	http://aber-owl.net/ontology/PW
+biomarkers; pharmacology; medical imaging; biological imaging	9606	Human	http://aber-owl.net/ontology/QIBO
+data management	1	All life	http://aber-owl.net/ontology/QUDT
+laboratory techniques	9606	Human	http://aber-owl.net/ontology/RADLEX
+trauma medicine; neurology; neurobiology	9606	Human	http://aber-owl.net/ontology/RB
+public health and epidemiology; data management; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/RCD
+preclinical and clinical studies; laboratory techniques	9606	Human	http://aber-owl.net/ontology/RCTONT
+reproductive health; phenomics	33208	Animalia	http://aber-owl.net/ontology/REPO
+protein structure analysis; proteins; structural biology	1	All life	http://aber-owl.net/ontology/RESID
+transcription factors and regulatory sites; data integration	1	All life	http://aber-owl.net/ontology/RETO
+physics; chemistry	1	All life	http://aber-owl.net/ontology/REX
+gene regulation; data integration	1	All life	http://aber-owl.net/ontology/REXO
+pharmacology; data integration; pathology; physiology; systems medicine; psychiatry	1	All life	http://aber-owl.net/ontology/RH-MESH
+rna; structural biology; sequence sites, features and motifs	1	All life	http://aber-owl.net/ontology/RNAO
+public health and epidemiology; data management; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/RNPRIO
+data management	1	All life	http://aber-owl.net/ontology/RO
+data management	1	All life	http://aber-owl.net/ontology/ROLEO
+oncology; pathology	9606	Human	http://aber-owl.net/ontology/ROO
+public health and epidemiology; phenomics; immunology; allergy, clinical immunology and immunotherapeutics.	9606	Human	http://aber-owl.net/ontology/RPO
+laboratory animal science; eukaryotes	10114	Rat	http://aber-owl.net/ontology/RS
+sequence analysis; data curation and annotation; 	1	All life	http://aber-owl.net/ontology/RSA
+synthetic chemistry; biochemistry; molecular interactions, pathways and networks	1	All life	http://aber-owl.net/ontology/RXNO
+preclinical and clinical studies; medicinal chemistry; pharmacology; medicines research and development	1	All life	http://aber-owl.net/ontology/RXNORM
+cell biology; anatomy; small molecules; structural biology	1	All life	http://aber-owl.net/ontology/SAO
+systems biology; computational biology; bioinformatics	1	All life	http://aber-owl.net/ontology/SBO
+synthetic chemistry; data curation and annotation; data visualisation; dna; nucleic acid sequence analysis	1	All life	http://aber-owl.net/ontology/SBOL
+data management	1	All life	http://aber-owl.net/ontology/SCHEMA
+documentation and help; data management	1	All life	http://aber-owl.net/ontology/SD3
+neurology; neurobiology; psychiatry; 	9606	Human	http://aber-owl.net/ontology/SDO
+biological imaging; medical imaging; data acquisition and deposition	9606	Human	http://aber-owl.net/ontology/SEDI
+sample collections; laboratory techniques; data curation and annotation	1	All life	http://aber-owl.net/ontology/SEP
+public health and epidemiology; pathology; laboratory techniques	9606	Human	http://aber-owl.net/ontology/SHR
+developmental biology; invertebrates; anatomy	50557	Insecta	http://aber-owl.net/ontology/SIBO
+data integration	1	All life	http://aber-owl.net/ontology/SIO
+public health and epidemiology; data management	9606	Human	http://aber-owl.net/ontology/SITBAC
+text mining; public health and epidemiology; biology	9606	Human	http://aber-owl.net/ontology/SMASH
+veterinary medicine; data management; organisms	1	All life	http://aber-owl.net/ontology/SNMI
+data management; preclinical and clinical studies	9606	Human	http://aber-owl.net/ontology/SNOMEDCT
+snps; genomics; data integration	1	All life	http://aber-owl.net/ontology/SNPO
+sequence analysis; data curation and annotation;	1	All life	http://aber-owl.net/ontology/SO
+pharmacogenomics; phenomics; preclinical and clinical studies; genomics	1	All life	http://aber-owl.net/ontology/SOPHARM
 plants; developmental biology	3847	Glycine max	http://aber-owl.net/ontology/SOY
 invertebrates; anatomy; biology	6893	Araneae	http://aber-owl.net/ontology/SPD
-dermatology; physiology	9606	human	http://aber-owl.net/ontology/SPO
+dermatology; physiology	9606	Human	http://aber-owl.net/ontology/SPO
 plants; phenomics	4070	Solanaceae	http://aber-owl.net/ontology/SPTO
-surgery; pharmacovigilence	9606	human	http://aber-owl.net/ontology/SSE
-public health and epidemiology; data management	9606	human	http://aber-owl.net/ontology/SSO
-statistics; data visualisation; laboratory techniques	1	all life	http://aber-owl.net/ontology/STATO
-data management	1	all life	http://aber-owl.net/ontology/STUFF
-data management	1	all life	http://aber-owl.net/ontology/STY
-surgery	9606	human	http://aber-owl.net/ontology/SURGICAL
-data management; ecology	1	all life	http://aber-owl.net/ontology/SWEET
-computer programming; bioinformatics; data management	1	all life	http://aber-owl.net/ontology/SWO
-public health and epidemiology; pathology	9606	human	http://aber-owl.net/ontology/SYMP
-neurology; neurobiology; oncology; pathology; anatomy	9606	human	http://aber-owl.net/ontology/SYN
+surgery; pharmacovigilence	9606	Human	http://aber-owl.net/ontology/SSE
+public health and epidemiology; data management	9606	Human	http://aber-owl.net/ontology/SSO
+statistics; data visualisation; laboratory techniques	1	All life	http://aber-owl.net/ontology/STATO
+data management	1	All life	http://aber-owl.net/ontology/STUFF
+data management	1	All life	http://aber-owl.net/ontology/STY
+surgery	9606	Human	http://aber-owl.net/ontology/SURGICAL
+data management; ecology	1	All life	http://aber-owl.net/ontology/SWEET
+computer programming; bioinformatics; data management	1	All life	http://aber-owl.net/ontology/SWO
+public health and epidemiology; pathology	9606	Human	http://aber-owl.net/ontology/SYMP
+neurology; neurobiology; oncology; pathology; anatomy	9606	Human	http://aber-owl.net/ontology/SYN
 parasitology; anatomy; invertebrates	6935	Ixodida	http://aber-owl.net/ontology/TADS
-embryology; anatomy	9606	human	http://aber-owl.net/ontology/TAHE
-cell biology; anatomy	9606	human	http://aber-owl.net/ontology/TAHH
+embryology; anatomy	9606	Human	http://aber-owl.net/ontology/TAHE
+cell biology; anatomy	9606	Human	http://aber-owl.net/ontology/TAHH
 marine biology; eukaryotes; anatomy	32443	Teleostei	http://aber-owl.net/ontology/TAO
-data management; organisms	1	all life	http://aber-owl.net/ontology/TAXRANK
-systems biology; synthetic chemistry; molecular dynamics	1	all life	http://aber-owl.net/ontology/TEDDY
-data management	1	all life	http://aber-owl.net/ontology/TEO
+data management; organisms	1	All life	http://aber-owl.net/ontology/TAXRANK
+systems biology; synthetic chemistry; molecular dynamics	1	All life	http://aber-owl.net/ontology/TEDDY
+data management	1	All life	http://aber-owl.net/ontology/TEO
 anatomy; invertebrates	7157	Culicidae	http://aber-owl.net/ontology/TGMA
-complementary medicine; data management	9606	human	http://aber-owl.net/ontology/TM-CONST
-complementary medicine; data management	9606	human	http://aber-owl.net/ontology/TM-MER
-complementary medicine; data management	9606	human	http://aber-owl.net/ontology/TM-OTHER-FACTORS
-complementary medicine; data management	9606	human	http://aber-owl.net/ontology/TM-SIGNS-AND-SYMPTS
-gene expression; translational medicine; data integration	1	all life	http://aber-owl.net/ontology/TMA
-pharmacology; translational medicine; data integration; drug development; drug discovery	9606	human	http://aber-owl.net/ontology/TMO
-plants; phenomics	3193	plants	http://aber-owl.net/ontology/TO
-data curation and annotation	1	all life	http://aber-owl.net/ontology/TOK
-medical informatics; preclinical and clinical studies; data management; pathology	9606	human	http://aber-owl.net/ontology/TOP-MENELAS
-preclinical and clinical studies; musculoskeletal medicine; public health and epidemiology	9606	human	http://aber-owl.net/ontology/TRAK
-pathology; public health and epidemiology; pathogens	9606	human	http://aber-owl.net/ontology/TRANS
-data management; public health and epidemiology	9606	human	http://aber-owl.net/ontology/TRIAGE
+complementary medicine; data management	9606	Human	http://aber-owl.net/ontology/TM-CONST
+complementary medicine; data management	9606	Human	http://aber-owl.net/ontology/TM-MER
+complementary medicine; data management	9606	Human	http://aber-owl.net/ontology/TM-OTHER-FACTORS
+complementary medicine; data management	9606	Human	http://aber-owl.net/ontology/TM-SIGNS-AND-SYMPTS
+gene expression; translational medicine; data integration	1	All life	http://aber-owl.net/ontology/TMA
+pharmacology; translational medicine; data integration; drug development; drug discovery	9606	Human	http://aber-owl.net/ontology/TMO
+plants; phenomics	3193	Plants	http://aber-owl.net/ontology/TO
+data curation and annotation	1	All life	http://aber-owl.net/ontology/TOK
+medical informatics; preclinical and clinical studies; data management; pathology	9606	Human	http://aber-owl.net/ontology/TOP-MENELAS
+preclinical and clinical studies; musculoskeletal medicine; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/TRAK
+pathology; public health and epidemiology; pathogens	9606	Human	http://aber-owl.net/ontology/TRANS
+data management; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/TRIAGE
 anatomy; invertebrates; developmental biology	7070	Tribolium castaneum	http://aber-owl.net/ontology/TRON
 marine biology; eukaryotes	32443	Teleostei	http://aber-owl.net/ontology/TTO
-microbiology; microbial collection; data integration	1	all life	http://aber-owl.net/ontology/TYPON
-anatomy; eukaryotes	33208	animalia	http://aber-owl.net/ontology/UBERON
-laboratory techniques; data management	1	all life	http://aber-owl.net/ontology/UNITSONT
-laboratory techniques; data management	1	all life	http://aber-owl.net/ontology/UO
-data management; phenomics	1	all life	http://aber-owl.net/ontology/UPHENO
-veterinary medicine; laboratory research and development; pharmacology	1	all life	http://aber-owl.net/ontology/VANDF
-proteins; nucleic acids; genetic variation	1	all life	http://aber-owl.net/ontology/VARIO
+microbiology; microbial collection; data integration	1	All life	http://aber-owl.net/ontology/TYPON
+anatomy; eukaryotes	33208	Animalia	http://aber-owl.net/ontology/UBERON
+laboratory techniques; data management	1	All life	http://aber-owl.net/ontology/UNITSONT
+laboratory techniques; data management	1	All life	http://aber-owl.net/ontology/UO
+data management; phenomics	1	All life	http://aber-owl.net/ontology/UPHENO
+veterinary medicine; medicines research and development; pharmacology	1	All life	http://aber-owl.net/ontology/VANDF
+proteins; nucleic acids; genetic variation	1	All life	http://aber-owl.net/ontology/VARIO
 vertebrates; data identity and mapping; anatomy	7742	Vertebrata	http://aber-owl.net/ontology/VHOG
-allergy, clinical immunology and immunotherapeutics. public health and epidemiology	9606	human	http://aber-owl.net/ontology/VICO
-data management	9606	human	http://aber-owl.net/ontology/VIVO
-data integration	1	all life	http://aber-owl.net/ontology/VIVO-ISF
-allergy, clinical immunology and immunotherapeutics. public health and epidemiology; data integration	9606	human	http://aber-owl.net/ontology/VO
+allergy, clinical immunology and immunotherapeutics; public health and epidemiology	9606	Human	http://aber-owl.net/ontology/VICO
+data management	9606	Human	http://aber-owl.net/ontology/VIVO
+data integration	1	All life	http://aber-owl.net/ontology/VIVO-ISF
+allergy, clinical immunology and immunotherapeutics; public health and epidemiology; data integration	9606	Human	http://aber-owl.net/ontology/VO
 vertebrates; anatomy; musculoskeletal medicine	7742	Vertebrata	http://aber-owl.net/ontology/VSAO
-medicine; anatomy	9606	human	http://aber-owl.net/ontology/VSO
+medicine; anatomy	9606	Human	http://aber-owl.net/ontology/VSO
 vertebrates	7742	Vertebrata	http://aber-owl.net/ontology/VT
 data integration; vertebrates; genetics	7742	Vertebrata	http://aber-owl.net/ontology/VTO
-anatomy; invertebrates	6239	C. elegans	http://aber-owl.net/ontology/WB-BT
-invertebrates; developmental biology	6239	C. elegans	http://aber-owl.net/ontology/WB-LS
-invertebrates; phenomics	6239	C. elegans	http://aber-owl.net/ontology/WB-PHENOTYPE
-anatomy; invertebrates	6239	C. elegans	http://aber-owl.net/ontology/WBBT
-invertebrates; developmental biology	6239	C. elegans	http://aber-owl.net/ontology/WBLS
-invertebrates; phenomics	6239	C. elegans	http://aber-owl.net/ontology/WBPHENOTYPE
-pharmacovigilence; pharmacology	9606	human	http://aber-owl.net/ontology/WHO-ART
-molecular interactions, pathways and networks	1	all life	http://aber-owl.net/ontology/WIKIPATHWAYS
-computer programming; data management	1	all life	http://aber-owl.net/ontology/WSIO
+anatomy; invertebrates	6239	C. Elegans	http://aber-owl.net/ontology/WB-BT
+invertebrates; developmental biology	6239	C. Elegans	http://aber-owl.net/ontology/WB-LS
+invertebrates; phenomics	6239	C. Elegans	http://aber-owl.net/ontology/WB-PHENOTYPE
+anatomy; invertebrates	6239	C. Elegans	http://aber-owl.net/ontology/WBBT
+invertebrates; developmental biology	6239	C. Elegans	http://aber-owl.net/ontology/WBLS
+invertebrates; phenomics	6239	C. Elegans	http://aber-owl.net/ontology/WBPHENOTYPE
+pharmacovigilence; pharmacology	9606	Human	http://aber-owl.net/ontology/WHO-ART
+molecular interactions, pathways and networks	1	All life	http://aber-owl.net/ontology/WIKIPATHWAYS
+computer programming; data management	1	All life	http://aber-owl.net/ontology/WSIO
 anatomy; developmental biology; vertebrates	8353	Xenopus 	http://aber-owl.net/ontology/XAO
-laboratory techniques; physiology; preclinical and clinical studies; organisms	1	all life	http://aber-owl.net/ontology/XCO
-ecology; plants	3193	plants	http://aber-owl.net/ontology/XEO
+laboratory techniques; physiology; preclinical and clinical studies; organisms	1	All life	http://aber-owl.net/ontology/XCO
+ecology; plants	3193	Plants	http://aber-owl.net/ontology/XEO
 fungi; phenomics	4932	Saccharomyces cerevisiae	http://aber-owl.net/ontology/YPO
 anatomy; plants	4577	Zea mays	http://aber-owl.net/ontology/ZEA
-marine biology; eukaryotes; anatomy; developmental biology; laboratory animal science	7955	zebrafish	http://aber-owl.net/ontology/ZFA
-marine biology; eukaryotes; developmental biology; laboratory animal science	7955	zebrafish	http://aber-owl.net/ontology/ZFS
-functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	all life	http://aber-owl.net/ontology/go-plus
-dna; genetics	1	all life	http://aber-owl.net/ontology/pseudo
-psychiatry; data management	9606	human	http://aber-owl.net/ontology/suicideo
+marine biology; eukaryotes; anatomy; developmental biology; laboratory animal science	7955	Zebrafish	http://aber-owl.net/ontology/ZFA
+marine biology; eukaryotes; developmental biology; laboratory animal science	7955	Zebrafish	http://aber-owl.net/ontology/ZFS
+functional genomics; molecular genetics; data curation and annotation; molecular interactions, pathways and networks; cell biology; molecular biology	1	All life	http://aber-owl.net/ontology/go-plus
+dna; genetics	1	All life	http://aber-owl.net/ontology/pseudo
+psychiatry; data management	9606	Human	http://aber-owl.net/ontology/suicideo
