@@ -26,7 +26,7 @@ async.each(lines, function(line, done) {
     }, function(req, res, body) {
       if(body && _.size(body) > 0) { 
         body = body[_.keys(body)[0]]; // disgusting
-        topicClasses.push(body[0].iri);
+        topicClasses.push([ body[0].iri, body[0].label ]);
       } else {
         console.log('Did not find topic "' + topic + '" for ' + ontology);
       }
