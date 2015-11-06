@@ -13,7 +13,7 @@ async.each(lines, function(line, done) {
       ontology = fields[3].trim(),
       topicClasses = [],
       taxon = fields[1].trim(),
-      species = fields[2].trim();
+      species = fields[2].trim().split(',');
 
   async.each(topics, function(topic, done) {
     topic = topic.trim();
